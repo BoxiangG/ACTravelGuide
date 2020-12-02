@@ -1,0 +1,7296 @@
+[
+    {
+        "number": "60",
+        "name": "golden stag",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins50.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectOugononikuwagataCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOugononikuwagataCropped.png",
+        "sell": 12000,
+        "whereHow": "On palm trees",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 100,
+        "spawnRates": "1",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhAug": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shFeb": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Black",
+        "color2": "Yellow",
+        "iconFilename": "Ins50",
+        "critterpediaFilename": "InsectOugononikuwagata",
+        "furnitureFilename": "FtrInsectOugononikuwagata",
+        "internalID": 638,
+        "uniqueEntryID": "2C8cSphidFCBPxYEe"
+    },
+    {
+        "number": "71",
+        "name": "wharf roach",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins71.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectFunamushiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectFunamushiCropped.png",
+        "sell": 200,
+        "whereHow": "On beach rocks",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "20",
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Beige",
+        "color2": "Blue",
+        "iconFilename": "Ins71",
+        "critterpediaFilename": "InsectFunamushi",
+        "furnitureFilename": "FtrInsectFunamushi",
+        "internalID": 591,
+        "uniqueEntryID": "2fp9ChfPuPdYefTK3"
+    },
+    {
+        "number": "52",
+        "name": "scarab beetle",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins43.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectPurachinakoganeCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectPurachinakoganeCropped.png",
+        "sell": 10000,
+        "whereHow": "On trees (any kind)",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 50,
+        "spawnRates": "3",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "11 PM –\u00A08 AM"
+        ],
+        "nhAug": [
+            "11 PM –\u00A08 AM"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "11 PM –\u00A08 AM"
+        ],
+        "shFeb": [
+            "11 PM –\u00A08 AM"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Black",
+        "color2": "Beige",
+        "iconFilename": "Ins43",
+        "critterpediaFilename": "InsectPurachinakogane",
+        "furnitureFilename": "FtrInsectPurachinakogane",
+        "internalID": 639,
+        "uniqueEntryID": "2HXdFD8s6BmYYMf4u"
+    },
+    {
+        "number": "73",
+        "name": "mosquito",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins58.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKaCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKaCropped.png",
+        "sell": 130,
+        "whereHow": "Flying",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "50",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "5 PM –\u00A04 AM"
+        ],
+        "nhJul": [
+            "5 PM –\u00A04 AM"
+        ],
+        "nhAug": [
+            "5 PM –\u00A04 AM"
+        ],
+        "nhSep": [
+            "5 PM –\u00A04 AM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "5 PM –\u00A04 AM"
+        ],
+        "shFeb": [
+            "5 PM –\u00A04 AM"
+        ],
+        "shMar": [
+            "5 PM –\u00A04 AM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "5 PM –\u00A04 AM"
+        ],
+        "color1": "Black",
+        "color2": "White",
+        "iconFilename": "Ins58",
+        "critterpediaFilename": "InsectKa",
+        "furnitureFilename": "FtrInsectKa",
+        "internalID": 606,
+        "uniqueEntryID": "3mMZ74qpWWnoizJHh"
+    },
+    {
+        "number": "79",
+        "name": "tarantula",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins62.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectTaranchuraCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectTaranchuraCropped.png",
+        "sell": 8000,
+        "whereHow": "On the ground",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "2",
+        "nhJan": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhFeb": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhMar": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhApr": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhDec": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shJun": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shJul": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shAug": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shSep": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shOct": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Brown",
+        "color2": "Black",
+        "iconFilename": "Ins62",
+        "critterpediaFilename": "InsectTaranchura",
+        "furnitureFilename": "FtrInsectTaranchura",
+        "internalID": 646,
+        "uniqueEntryID": "4mto3ZvrZYpJxbm4c"
+    },
+    {
+        "number": "41",
+        "name": "stinkbug",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins64.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKamemushiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKamemushiCropped.png",
+        "sell": 120,
+        "whereHow": "On flowers",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "40",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Green",
+        "color2": "Yellow",
+        "iconFilename": "Ins64",
+        "critterpediaFilename": "InsectKamemushi",
+        "furnitureFilename": "FtrInsectKamemushi",
+        "internalID": 608,
+        "uniqueEntryID": "4u5GZ4z3CyaHhMgqj"
+    },
+    {
+        "number": "31",
+        "name": "cicada shell",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins69.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectSeminonukegaraCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectSeminonukegaraCropped.png",
+        "sell": 10,
+        "whereHow": "On hardwood/cedar trees",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 50,
+        "spawnRates": "1",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Brown",
+        "color2": "Green",
+        "iconFilename": "Ins69",
+        "critterpediaFilename": "InsectSeminonukegara",
+        "furnitureFilename": "FtrInsectSeminonukegara",
+        "internalID": 641,
+        "uniqueEntryID": "6s3MCahAroqpjGybW"
+    },
+    {
+        "number": "33",
+        "name": "darner dragonfly",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins23.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectGinyanmaCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectGinyanmaCropped.png",
+        "sell": 230,
+        "whereHow": "Flying near water",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "40",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhMay": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhJun": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhJul": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhAug": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhSep": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhOct": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shFeb": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shMar": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shApr": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shNov": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shDec": [
+            "8 AM –\u00A05 PM"
+        ],
+        "color1": "Green",
+        "color2": "Green",
+        "iconFilename": "Ins23",
+        "critterpediaFilename": "InsectGinyanma",
+        "furnitureFilename": "FtrInsectGinyanma",
+        "internalID": 595,
+        "uniqueEntryID": "723NiWMh4iY9RJtAM"
+    },
+    {
+        "number": "13",
+        "name": "moth",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins9.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectGaCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectGaCropped.png",
+        "sell": 130,
+        "whereHow": "Flying near light sources",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "25",
+        "nhJan": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhFeb": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhMar": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhApr": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhMay": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhJun": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhJul": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhAug": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhSep": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhOct": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhNov": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhDec": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shJan": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shFeb": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shMar": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shApr": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shMay": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shJun": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shJul": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shAug": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shSep": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shOct": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shNov": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shDec": [
+            "7 PM –\u00A04 AM"
+        ],
+        "color1": "Beige",
+        "color2": "Yellow",
+        "iconFilename": "Ins9",
+        "critterpediaFilename": "InsectGa",
+        "furnitureFilename": "FtrInsectGa",
+        "internalID": 592,
+        "uniqueEntryID": "7Kd97rqbYBuzuCHgf"
+    },
+    {
+        "number": "23",
+        "name": "orchid mantis",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins16.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHanakamakiriCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHanakamakiriCropped.png",
+        "sell": 2400,
+        "whereHow": "On white flowers",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "15",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhApr": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhMay": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhJun": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhJul": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhAug": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhSep": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhOct": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhNov": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shFeb": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shMar": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shApr": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shMay": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shOct": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shNov": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shDec": [
+            "8 AM –\u00A05 PM"
+        ],
+        "color1": "White",
+        "color2": "Pink",
+        "iconFilename": "Ins16",
+        "critterpediaFilename": "InsectHanakamakiri",
+        "furnitureFilename": "FtrInsectHanakamakiri",
+        "internalID": 598,
+        "uniqueEntryID": "9b4v6nMrrThHEtNbB"
+    },
+    {
+        "number": "2",
+        "name": "yellow butterfly",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins1.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMonkichoCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMonkichoCropped.png",
+        "sell": 160,
+        "whereHow": "Flying",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "60",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhApr": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhMay": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhJun": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhOct": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shApr": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shOct": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shNov": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shDec": [
+            "4 AM –\u00A07 PM"
+        ],
+        "color1": "Yellow",
+        "color2": "Blue",
+        "iconFilename": "Ins1",
+        "critterpediaFilename": "InsectMonkicho",
+        "furnitureFilename": "FtrInsectMonkicho",
+        "internalID": 625,
+        "uniqueEntryID": "9d92MqgcnGao8wQjB"
+    },
+    {
+        "number": "10",
+        "name": "agrias butterfly",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins6.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMiirotatehaCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMiirotatehaCropped.png",
+        "sell": 3000,
+        "whereHow": "Flying near flowers",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "5",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhMay": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhJun": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhJul": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhAug": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhSep": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shFeb": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shMar": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shNov": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shDec": [
+            "8 AM –\u00A05 PM"
+        ],
+        "color1": "Pink",
+        "color2": "Green",
+        "iconFilename": "Ins6",
+        "critterpediaFilename": "InsectMiirotateha",
+        "furnitureFilename": "FtrInsectMiirotateha",
+        "internalID": 620,
+        "uniqueEntryID": "aj95rMzdbSbvZy9A2"
+    },
+    {
+        "number": "8",
+        "name": "monarch butterfly",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins4.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectOhkabamadaraCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOhkabamadaraCropped.png",
+        "sell": 140,
+        "whereHow": "Flying near flowers",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "70",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "4 AM – 5 PM"
+        ],
+        "nhOct": [
+            "4 AM – 5 PM"
+        ],
+        "nhNov": [
+            "4 AM – 5 PM"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "4 AM – 5 PM"
+        ],
+        "shApr": [
+            "4 AM – 5 PM"
+        ],
+        "shMay": [
+            "4 AM – 5 PM"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Orange",
+        "color2": "Blue",
+        "iconFilename": "Ins4",
+        "critterpediaFilename": "InsectOhkabamadara",
+        "furnitureFilename": "FtrInsectOhkabamadara",
+        "internalID": 636,
+        "uniqueEntryID": "BJPKSZMZ2tkLXkWjL"
+    },
+    {
+        "number": "39",
+        "name": "diving beetle",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins28.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectGengorouCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectGengorouCropped.png",
+        "sell": 800,
+        "whereHow": "On rivers/ponds",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "10",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhJun": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhJul": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhAug": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhSep": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shFeb": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shMar": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shDec": [
+            "8 AM –\u00A07 PM"
+        ],
+        "color1": "Black",
+        "color2": "Blue",
+        "iconFilename": "Ins28",
+        "critterpediaFilename": "InsectGengorou",
+        "furnitureFilename": "FtrInsectGengorou",
+        "internalID": 594,
+        "uniqueEntryID": "CBjt7itnPqEtNznrX"
+    },
+    {
+        "number": "27",
+        "name": "robust cicada",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins18.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMinminzemiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMinminzemiCropped.png",
+        "sell": 300,
+        "whereHow": "On hardwood/cedar trees",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "70",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhAug": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shFeb": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Black",
+        "color2": "Blue",
+        "iconFilename": "Ins18",
+        "critterpediaFilename": "InsectMinminzemi",
+        "furnitureFilename": "FtrInsectMinminzemi",
+        "internalID": 621,
+        "uniqueEntryID": "cd5ymnRmRvT4n4yjB"
+    },
+    {
+        "number": "21",
+        "name": "bell cricket",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins31.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectSuzumushiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectSuzumushiCropped.png",
+        "sell": 430,
+        "whereHow": "On the ground",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "60",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhOct": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shApr": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Black",
+        "color2": "Beige",
+        "iconFilename": "Ins31",
+        "critterpediaFilename": "InsectSuzumushi",
+        "furnitureFilename": "FtrInsectSuzumushi",
+        "internalID": 642,
+        "uniqueEntryID": "d5EQqbQsip82G2CZE"
+    },
+    {
+        "number": "17",
+        "name": "migratory locust",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins14.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectTonosamabattaCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectTonosamabattaCropped.png",
+        "sell": 600,
+        "whereHow": "On the ground",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "10",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhSep": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhOct": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhNov": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shMar": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shApr": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shMay": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Green",
+        "color2": "Orange",
+        "iconFilename": "Ins14",
+        "critterpediaFilename": "InsectTonosamabatta",
+        "furnitureFilename": "FtrInsectTonosamabatta",
+        "internalID": 648,
+        "uniqueEntryID": "dkGagcjd7aZwFEszw"
+    },
+    {
+        "number": "15",
+        "name": "Madagascan sunset moth",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins79.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectNishikiohtsubamegaCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectNishikiohtsubamegaCropped.png",
+        "sell": 2500,
+        "whereHow": "Flying near flowers",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "5",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "8 AM –\u00A04 PM"
+        ],
+        "nhMay": [
+            "8 AM –\u00A04 PM"
+        ],
+        "nhJun": [
+            "8 AM –\u00A04 PM"
+        ],
+        "nhJul": [
+            "8 AM –\u00A04 PM"
+        ],
+        "nhAug": [
+            "8 AM –\u00A04 PM"
+        ],
+        "nhSep": [
+            "8 AM –\u00A04 PM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "8 AM –\u00A04 PM"
+        ],
+        "shFeb": [
+            "8 AM –\u00A04 PM"
+        ],
+        "shMar": [
+            "8 AM –\u00A04 PM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "8 AM –\u00A04 PM"
+        ],
+        "shNov": [
+            "8 AM –\u00A04 PM"
+        ],
+        "shDec": [
+            "8 AM –\u00A04 PM"
+        ],
+        "color1": "Green",
+        "color2": "Pink",
+        "iconFilename": "Ins79",
+        "critterpediaFilename": "InsectNishikiohtsubamega",
+        "furnitureFilename": "FtrInsectNishikiohtsubamega",
+        "internalID": 3484,
+        "uniqueEntryID": "EFWMygLqnJinFoXSW"
+    },
+    {
+        "number": "58",
+        "name": "rainbow stag",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins48.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectNijiirokuwagataCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectNijiirokuwagataCropped.png",
+        "sell": 6000,
+        "whereHow": "On trees (any kind)",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 50,
+        "spawnRates": "7",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhJul": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhAug": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhSep": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shFeb": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shMar": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "7 PM –\u00A08 AM"
+        ],
+        "color1": "Brown",
+        "color2": "Black",
+        "iconFilename": "Ins48",
+        "critterpediaFilename": "InsectNijiirokuwagata",
+        "furnitureFilename": "FtrInsectNijiirokuwagata",
+        "internalID": 631,
+        "uniqueEntryID": "Egfv6BDtFMeGZPmfh"
+    },
+    {
+        "number": "38",
+        "name": "pondskater",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins27.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectAmenboCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAmenboCropped.png",
+        "sell": 130,
+        "whereHow": "On rivers/ponds",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "30",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhJun": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhJul": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhAug": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhSep": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shFeb": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shMar": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shDec": [
+            "8 AM –\u00A07 PM"
+        ],
+        "color1": "Black",
+        "color2": "Blue",
+        "iconFilename": "Ins27",
+        "critterpediaFilename": "InsectAmenbo",
+        "furnitureFilename": "FtrInsectAmenbo",
+        "internalID": 587,
+        "uniqueEntryID": "eSBNwiuZforpxNYem"
+    },
+    {
+        "number": "26",
+        "name": "brown cicada",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins17.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectAburazemiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAburazemiCropped.png",
+        "sell": 250,
+        "whereHow": "On hardwood/cedar trees",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "70",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhAug": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shFeb": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Brown",
+        "color2": "Green",
+        "iconFilename": "Ins17",
+        "critterpediaFilename": "InsectAburazemi",
+        "furnitureFilename": "FtrInsectAburazemi",
+        "internalID": 582,
+        "uniqueEntryID": "gBLRZ2J2R2wwYWFCk"
+    },
+    {
+        "number": "3",
+        "name": "tiger butterfly",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins2.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectAgehachoCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAgehachoCropped.png",
+        "sell": 240,
+        "whereHow": "Flying",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "40",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhApr": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhMay": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhJun": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhJul": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhAug": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhSep": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shFeb": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shMar": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shOct": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shNov": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shDec": [
+            "4 AM –\u00A07 PM"
+        ],
+        "color1": "Yellow",
+        "color2": "Green",
+        "iconFilename": "Ins2",
+        "critterpediaFilename": "InsectAgehacho",
+        "furnitureFilename": "FtrInsectAgehacho",
+        "internalID": 583,
+        "uniqueEntryID": "GcSpepwg536mYnNuu"
+    },
+    {
+        "number": "11",
+        "name": "Rajah Brooke's birdwing",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins7.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectAkaeritoribaneagehaCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAkaeritoribaneagehaCropped.png",
+        "sell": 2500,
+        "whereHow": "Flying near flowers",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "5",
+        "nhJan": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhFeb": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhMay": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhJun": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhJul": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhAug": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhSep": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shJan": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shFeb": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shMar": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shJul": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shAug": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shNov": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shDec": [
+            "8 AM –\u00A05 PM"
+        ],
+        "color1": "Green",
+        "color2": "Pink",
+        "iconFilename": "Ins7",
+        "critterpediaFilename": "InsectAkaeritoribaneageha",
+        "furnitureFilename": "FtrInsectAkaeritoribaneageha",
+        "internalID": 584,
+        "uniqueEntryID": "gLpHgXT4pPXP4XfWQ"
+    },
+    {
+        "number": "37",
+        "name": "mole cricket",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins33.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectOkeraCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOkeraCropped.png",
+        "sell": 500,
+        "whereHow": "Underground (dig where noise is loudest)",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "30",
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Brown",
+        "color2": "Yellow",
+        "iconFilename": "Ins33",
+        "critterpediaFilename": "InsectOkera",
+        "furnitureFilename": "FtrInsectOkera",
+        "internalID": 634,
+        "uniqueEntryID": "HMWPGeeKw9LP6ucSq"
+    },
+    {
+        "number": "6",
+        "name": "paper kite butterfly",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins73.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectOhgomamadaraCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOhgomamadaraCropped.png",
+        "sell": 1000,
+        "whereHow": "Flying near flowers",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "20",
+        "nhJan": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhFeb": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhMar": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhApr": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhMay": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhJun": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhJul": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhAug": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhSep": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhOct": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhNov": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhDec": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shJan": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shFeb": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shMar": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shApr": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shMay": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shJun": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shJul": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shAug": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shSep": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shOct": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shNov": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shDec": [
+            "8 AM –\u00A07 PM"
+        ],
+        "color1": "White",
+        "color2": "Yellow",
+        "iconFilename": "Ins73",
+        "critterpediaFilename": "InsectOhgomamadara",
+        "furnitureFilename": "FtrInsectOhgomamadara",
+        "internalID": 3478,
+        "uniqueEntryID": "hzwridDJE99rPHLrZ"
+    },
+    {
+        "number": "51",
+        "name": "earth-boring dung beetle",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins42.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectOhsenchikoganeCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectSenchikoganeCropped.png",
+        "sell": 300,
+        "whereHow": "On the ground",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "30",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Purple",
+        "color2": "Orange",
+        "iconFilename": "Ins42",
+        "critterpediaFilename": "InsectOhsenchikogane",
+        "furnitureFilename": "FtrInsectSenchikogane",
+        "internalID": 614,
+        "uniqueEntryID": "k2fqxdYnTF8BpHB7u"
+    },
+    {
+        "number": "57",
+        "name": "giant stag",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins47.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectOhkuwagataCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOhkuwagataCropped.png",
+        "sell": 10000,
+        "whereHow": "On trees (any kind)",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 50,
+        "spawnRates": "5",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "11 PM –\u00A08 AM"
+        ],
+        "nhAug": [
+            "11 PM –\u00A08 AM"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "11 PM –\u00A08 AM"
+        ],
+        "shFeb": [
+            "11 PM –\u00A08 AM"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Black",
+        "color2": "Black",
+        "iconFilename": "Ins47",
+        "critterpediaFilename": "InsectOhkuwagata",
+        "furnitureFilename": "FtrInsectOhkuwagata",
+        "internalID": 637,
+        "uniqueEntryID": "KhrTLzayFz23zz2kn"
+    },
+    {
+        "number": "67",
+        "name": "walking leaf",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins34.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKonohamushiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKonohamushiCropped.png",
+        "sell": 600,
+        "whereHow": "Disguised under trees",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "10",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Green",
+        "color2": "Green",
+        "iconFilename": "Ins34",
+        "critterpediaFilename": "InsectKonohamushi",
+        "furnitureFilename": "FtrInsectKonohamushi",
+        "internalID": 616,
+        "uniqueEntryID": "kuZaMcg2E7ZX56nio"
+    },
+    {
+        "number": "30",
+        "name": "evening cicada",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins20.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHigurashiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHigurashiCropped.png",
+        "sell": 550,
+        "whereHow": "On hardwood/cedar trees",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "50",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "4 AM –\u00A08 AM",
+            "4 PM –\u00A07 PM"
+        ],
+        "nhAug": [
+            "4 AM –\u00A08 AM",
+            "4 PM –\u00A07 PM"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "4 AM –\u00A08 AM",
+            "4 PM –\u00A07 PM"
+        ],
+        "shFeb": [
+            "4 AM –\u00A08 AM",
+            "4 PM –\u00A07 PM"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Black",
+        "color2": "Orange",
+        "iconFilename": "Ins20",
+        "critterpediaFilename": "InsectHigurashi",
+        "furnitureFilename": "FtrInsectHigurashi",
+        "internalID": 601,
+        "uniqueEntryID": "kzX4apD9C3Nq8khzR"
+    },
+    {
+        "number": "20",
+        "name": "cricket",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins30.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKohrogiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKohrogiCropped.png",
+        "sell": 130,
+        "whereHow": "On the ground",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "60",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhOct": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhNov": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shApr": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shMay": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Brown",
+        "color2": "Beige",
+        "iconFilename": "Ins30",
+        "critterpediaFilename": "InsectKohrogi",
+        "furnitureFilename": "FtrInsectKohrogi",
+        "internalID": 617,
+        "uniqueEntryID": "Lr7eFJzJJZpWRWekm"
+    },
+    {
+        "number": "9",
+        "name": "emperor butterfly",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins5.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMorufuochoCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMorufuochoCropped.png",
+        "sell": 4000,
+        "whereHow": "Flying near flowers",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "5",
+        "nhJan": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhFeb": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhMar": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhJul": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhAug": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhSep": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shJan": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shFeb": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shMar": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shJul": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shAug": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shSep": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "5 PM –\u00A08 AM"
+        ],
+        "color1": "Blue",
+        "color2": "Orange",
+        "iconFilename": "Ins5",
+        "critterpediaFilename": "InsectMorufuocho",
+        "furnitureFilename": "FtrInsectMorufuocho",
+        "internalID": 627,
+        "uniqueEntryID": "Lwkf7oQ3mcWYm6eEY"
+    },
+    {
+        "number": "64",
+        "name": "horned elephant",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins53.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectZoukabutoCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectZoukabutoCropped.png",
+        "sell": 8000,
+        "whereHow": "On palm trees",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 100,
+        "spawnRates": "2",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhAug": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shFeb": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Beige",
+        "color2": "Black",
+        "iconFilename": "Ins53",
+        "critterpediaFilename": "InsectZoukabuto",
+        "furnitureFilename": "FtrInsectZoukabuto",
+        "internalID": 653,
+        "uniqueEntryID": "M7SHXNEMf78nJD6fE"
+    },
+    {
+        "number": "59",
+        "name": "cyclommatus stag",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins49.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHosoakakuwagataCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHosoakakuwagataCropped.png",
+        "sell": 8000,
+        "whereHow": "On palm trees",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 100,
+        "spawnRates": "2",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhAug": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shFeb": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Black",
+        "color2": "Black",
+        "iconFilename": "Ins49",
+        "critterpediaFilename": "InsectHosoakakuwagata",
+        "furnitureFilename": "FtrInsectHosoakakuwagata",
+        "internalID": 602,
+        "uniqueEntryID": "moBevd7J5hwpHeLcs"
+    },
+    {
+        "number": "48",
+        "name": "rosalia batesi beetle",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins82.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectRuriboshikamikiriCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectRuriboshikamikiriCropped.png",
+        "sell": 3000,
+        "whereHow": "On tree stumps",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "2",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Blue",
+        "color2": "Black",
+        "iconFilename": "Ins82",
+        "critterpediaFilename": "InsectRuriboshikamikiri",
+        "furnitureFilename": "FtrInsectRuriboshikamikiri",
+        "internalID": 3487,
+        "uniqueEntryID": "MSTA9vdJmGoDDADrF"
+    },
+    {
+        "number": "28",
+        "name": "giant cicada",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins65.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKumazemiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKumazemiCropped.png",
+        "sell": 500,
+        "whereHow": "On hardwood/cedar trees",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "50",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhAug": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shFeb": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Black",
+        "color2": "Yellow",
+        "iconFilename": "Ins65",
+        "critterpediaFilename": "InsectKumazemi",
+        "furnitureFilename": "FtrInsectKumazemi",
+        "internalID": 618,
+        "uniqueEntryID": "nPm2r7idGshQW87MN"
+    },
+    {
+        "number": "50",
+        "name": "dung beetle",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins40.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectFunkorogashiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectFunkorogashiCropped.png",
+        "sell": 3000,
+        "whereHow": "Pushing snowballs",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "10",
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Black",
+        "color2": "Beige",
+        "iconFilename": "Ins40",
+        "critterpediaFilename": "InsectFunkorogashi",
+        "furnitureFilename": "FtrInsectFunkorogashi",
+        "internalID": 604,
+        "uniqueEntryID": "p9RhE8wLWpHtcoq5G"
+    },
+    {
+        "number": "35",
+        "name": "damselfly",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins81.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectItotonboCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectItotonboCropped.png",
+        "sell": 500,
+        "whereHow": "Flying near water",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "60",
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Green",
+        "color2": "Blue",
+        "iconFilename": "Ins81",
+        "critterpediaFilename": "InsectItotonbo",
+        "furnitureFilename": "FtrInsectItotonbo",
+        "internalID": 5339,
+        "uniqueEntryID": "pBmqsa7CyeKzyRjDT"
+    },
+    {
+        "number": "12",
+        "name": "Queen Alexandra's birdwing",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins8.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectArekisandoratoribaneagehaCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectArekisandoratoribaneagehaCropped.png",
+        "sell": 4000,
+        "whereHow": "Flying near flowers",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 50,
+        "spawnRates": "5",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "8 AM –\u00A04 PM"
+        ],
+        "nhJun": [
+            "8 AM –\u00A04 PM"
+        ],
+        "nhJul": [
+            "8 AM –\u00A04 PM"
+        ],
+        "nhAug": [
+            "8 AM –\u00A04 PM"
+        ],
+        "nhSep": [
+            "8 AM –\u00A04 PM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "8 AM –\u00A04 PM"
+        ],
+        "shFeb": [
+            "8 AM –\u00A04 PM"
+        ],
+        "shMar": [
+            "8 AM –\u00A04 PM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "8 AM –\u00A04 PM"
+        ],
+        "shDec": [
+            "8 AM –\u00A04 PM"
+        ],
+        "color1": "Green",
+        "color2": "Pink",
+        "iconFilename": "Ins8",
+        "critterpediaFilename": "InsectArekisandoratoribaneageha",
+        "furnitureFilename": "FtrInsectArekisandoratoribaneageha",
+        "internalID": 586,
+        "uniqueEntryID": "PbNXeN9GZuJuow7jv"
+    },
+    {
+        "number": "34",
+        "name": "banded dragonfly",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins24.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectOniyanmaCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOniyanmaCropped.png",
+        "sell": 4500,
+        "whereHow": "Flying near water",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 50,
+        "spawnRates": "7",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhJun": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhJul": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhAug": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhSep": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhOct": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shFeb": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shMar": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shApr": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shDec": [
+            "8 AM –\u00A05 PM"
+        ],
+        "color1": "Black",
+        "color2": "Yellow",
+        "iconFilename": "Ins24",
+        "critterpediaFilename": "InsectOniyanma",
+        "furnitureFilename": "FtrInsectOniyanma",
+        "internalID": 635,
+        "uniqueEntryID": "pCFep58D6QusMSvR7"
+    },
+    {
+        "number": "36",
+        "name": "firefly",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins41.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHotaruCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHotaruCropped.png",
+        "sell": 300,
+        "whereHow": "Flying near water",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "200",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "7 PM –\u00A04 AM"
+        ],
+        "color1": "Black",
+        "color2": "Blue",
+        "iconFilename": "Ins41",
+        "critterpediaFilename": "InsectHotaru",
+        "furnitureFilename": "FtrInsectHotaru",
+        "internalID": 603,
+        "uniqueEntryID": "PgiwPqykwafyz5EL6"
+    },
+    {
+        "number": "32",
+        "name": "red dragonfly",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins22.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectAkiakaneCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAkiakaneCropped.png",
+        "sell": 180,
+        "whereHow": "Flying near water",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "80",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhOct": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shApr": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Red",
+        "color2": "Orange",
+        "iconFilename": "Ins22",
+        "critterpediaFilename": "InsectAkiakane",
+        "furnitureFilename": "FtrInsectAkiakane",
+        "internalID": 585,
+        "uniqueEntryID": "PKSHvkPphXteXHKuG"
+    },
+    {
+        "number": "46",
+        "name": "violin beetle",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins38.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectBaiorinmushiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectBaiorinmushiCropped.png",
+        "sell": 450,
+        "whereHow": "On tree stumps",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "10",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Brown",
+        "color2": "Black",
+        "iconFilename": "Ins38",
+        "critterpediaFilename": "InsectBaiorinmushi",
+        "furnitureFilename": "FtrInsectBaiorinmushi",
+        "internalID": 650,
+        "uniqueEntryID": "poAcys5Mr35ELp5PS"
+    },
+    {
+        "number": "61",
+        "name": "giraffe stag",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins77.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectGirafanokogirikuwagataCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectGirafanokogirikuwagataCropped.png",
+        "sell": 12000,
+        "whereHow": "On palm trees",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 100,
+        "spawnRates": "1",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhAug": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shFeb": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Black",
+        "color2": "Black",
+        "iconFilename": "Ins77",
+        "critterpediaFilename": "InsectGirafanokogirikuwagata",
+        "furnitureFilename": "FtrInsectGirafanokogirikuwagata",
+        "internalID": 3482,
+        "uniqueEntryID": "PSChjzMhGwhnsHTs4"
+    },
+    {
+        "number": "43",
+        "name": "ladybug",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins37.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectTentoumushiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectTentoumushiCropped.png",
+        "sell": 200,
+        "whereHow": "On flowers",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "40",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhApr": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhMay": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhJun": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shOct": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shNov": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shDec": [
+            "8 AM –\u00A05 PM"
+        ],
+        "color1": "Red",
+        "color2": "Green",
+        "iconFilename": "Ins37",
+        "critterpediaFilename": "InsectTentoumushi",
+        "furnitureFilename": "FtrInsectTentoumushi",
+        "internalID": 647,
+        "uniqueEntryID": "pYSSbvXzkuFneRvQ7"
+    },
+    {
+        "number": "16",
+        "name": "long locust",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins13.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectShoryobattaCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectShoryobattaCropped.png",
+        "sell": 200,
+        "whereHow": "On the ground",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "50",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhMay": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhJun": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhJul": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhAug": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhSep": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhOct": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhNov": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shFeb": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shMar": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shApr": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shMay": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shNov": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shDec": [
+            "8 AM –\u00A07 PM"
+        ],
+        "color1": "Green",
+        "color2": "Blue",
+        "iconFilename": "Ins13",
+        "critterpediaFilename": "InsectShoryobatta",
+        "furnitureFilename": "FtrInsectShoryobatta",
+        "internalID": 644,
+        "uniqueEntryID": "Q57sgq4hQTNZAqWXj"
+    },
+    {
+        "number": "29",
+        "name": "walker cicada",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins19.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectTsukutsukuhousiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectTsukutsukuhousiCropped.png",
+        "sell": 400,
+        "whereHow": "On hardwood/cedar trees",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "40",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhSep": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shMar": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Black",
+        "color2": "Pink",
+        "iconFilename": "Ins19",
+        "critterpediaFilename": "InsectTsukutsukuhousi",
+        "furnitureFilename": "FtrInsectTsukutsukuhousi",
+        "internalID": 649,
+        "uniqueEntryID": "QdrL4K7seJHvd4ZZM"
+    },
+    {
+        "number": "22",
+        "name": "mantis",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins15.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKamakiriCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKamakiriCropped.png",
+        "sell": 430,
+        "whereHow": "On flowers",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "30",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhApr": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhMay": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhJun": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhJul": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhAug": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhSep": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhOct": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhNov": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shFeb": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shMar": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shApr": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shMay": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shOct": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shNov": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shDec": [
+            "8 AM –\u00A05 PM"
+        ],
+        "color1": "Green",
+        "color2": "Green",
+        "iconFilename": "Ins15",
+        "critterpediaFilename": "InsectKamakiri",
+        "furnitureFilename": "FtrInsectKamakiri",
+        "internalID": 607,
+        "uniqueEntryID": "Qko2mfz7SaESpMcCv"
+    },
+    {
+        "number": "49",
+        "name": "blue weevil beetle",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins80.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHousekizoumushiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHousekizoumushiCropped.png",
+        "sell": 800,
+        "whereHow": "On palm trees",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "2",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Green",
+        "color2": "Pink",
+        "iconFilename": "Ins80",
+        "critterpediaFilename": "InsectHousekizoumushi",
+        "furnitureFilename": "FtrInsectHousekizoumushi",
+        "internalID": 3485,
+        "uniqueEntryID": "qocWy6r5RXjeThdYy"
+    },
+    {
+        "number": "47",
+        "name": "citrus long-horned beetle",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins39.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectGomadarakamikiriCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectGomadarakamikiriCropped.png",
+        "sell": 350,
+        "whereHow": "On tree stumps",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "10",
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Black",
+        "color2": "Green",
+        "iconFilename": "Ins39",
+        "critterpediaFilename": "InsectGomadarakamikiri",
+        "furnitureFilename": "FtrInsectGomadarakamikiri",
+        "internalID": 609,
+        "uniqueEntryID": "QR88MPLzYxSCHWZJb"
+    },
+    {
+        "number": "56",
+        "name": "miyama stag",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins46.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMiyamakuwagataCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMiyamakuwagataCropped.png",
+        "sell": 1000,
+        "whereHow": "On trees (any kind)",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "35",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Black",
+        "color2": "Black",
+        "iconFilename": "Ins46",
+        "critterpediaFilename": "InsectMiyamakuwagata",
+        "furnitureFilename": "FtrInsectMiyamakuwagata",
+        "internalID": 624,
+        "uniqueEntryID": "qRGGm6MfuP4Aqdk3M"
+    },
+    {
+        "number": "68",
+        "name": "bagworm",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins36.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMinomushiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMinomushiCropped.png",
+        "sell": 600,
+        "whereHow": "Shaking trees (hardwood or cedar only)",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "50",
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Brown",
+        "color2": "Blue",
+        "iconFilename": "Ins36",
+        "critterpediaFilename": "InsectMinomushi",
+        "furnitureFilename": "FtrInsectMinomushi",
+        "internalID": 622,
+        "uniqueEntryID": "QvxgCm82JqHsDknY4"
+    },
+    {
+        "number": "74",
+        "name": "flea",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins56.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectNomiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectNomiCropped.png",
+        "sell": 70,
+        "whereHow": "On villagers",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "5–10",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Brown",
+        "color2": "White",
+        "iconFilename": "Ins56",
+        "critterpediaFilename": "InsectNomi",
+        "furnitureFilename": "FtrInsectNomi",
+        "internalID": 633,
+        "uniqueEntryID": "QzDywoJEAJDcjGfEF"
+    },
+    {
+        "number": "69",
+        "name": "ant",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins26.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectAriCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAriCropped.png",
+        "sell": 80,
+        "whereHow": "On rotten turnips",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "0",
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Black",
+        "color2": "White",
+        "iconFilename": "Ins26",
+        "critterpediaFilename": "InsectAri",
+        "furnitureFilename": "FtrInsectAri",
+        "internalID": 588,
+        "uniqueEntryID": "QZpmczZu4hW2a4Rpv"
+    },
+    {
+        "number": "75",
+        "name": "snail",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins29.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKatatsumuriCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKatatsumuriCropped.png",
+        "sell": 250,
+        "whereHow": "On rocks/bushes",
+        "weather": "Rain only",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "20",
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Beige",
+        "color2": "Green",
+        "iconFilename": "Ins29",
+        "critterpediaFilename": "InsectKatatsumuri",
+        "furnitureFilename": "FtrInsectKatatsumuri",
+        "internalID": 611,
+        "uniqueEntryID": "rDNLeQnmJQGxsHpmL"
+    },
+    {
+        "number": "4",
+        "name": "peacock butterfly",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins3.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKarasuagehaCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKarasuagehaCropped.png",
+        "sell": 2500,
+        "whereHow": "Flying near blue/purple/black flowers",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "5",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhApr": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhMay": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhJun": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shOct": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shNov": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shDec": [
+            "4 AM –\u00A07 PM"
+        ],
+        "color1": "Green",
+        "color2": "Blue",
+        "iconFilename": "Ins3",
+        "critterpediaFilename": "InsectKarasuageha",
+        "furnitureFilename": "FtrInsectKarasuageha",
+        "internalID": 610,
+        "uniqueEntryID": "rguKzmnRkGmBMKzyE"
+    },
+    {
+        "number": "78",
+        "name": "spider",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins61.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKumoCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKumoCropped.png",
+        "sell": 600,
+        "whereHow": "Shaking trees (hardwood or cedar only)",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "30",
+        "nhJan": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhFeb": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhMar": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhApr": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhMay": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhJun": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhJul": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhAug": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhSep": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhOct": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhNov": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhDec": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shJan": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shFeb": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shMar": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shApr": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shMay": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shJun": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shJul": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shAug": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shSep": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shOct": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shNov": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shDec": [
+            "7 PM –\u00A08 AM"
+        ],
+        "color1": "Yellow",
+        "color2": "Orange",
+        "iconFilename": "Ins61",
+        "critterpediaFilename": "InsectKumo",
+        "furnitureFilename": "FtrInsectKumo",
+        "internalID": 619,
+        "uniqueEntryID": "s2u8kDoMQx7GbAJTR"
+    },
+    {
+        "number": "63",
+        "name": "horned atlas",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins52.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKohkasasuohkabutoCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKohkasasuohkabutoCropped.png",
+        "sell": 8000,
+        "whereHow": "On palm trees",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 100,
+        "spawnRates": "2",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhAug": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shFeb": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Black",
+        "color2": "Black",
+        "iconFilename": "Ins52",
+        "critterpediaFilename": "InsectKohkasasuohkabuto",
+        "furnitureFilename": "FtrInsectKohkasasuohkabuto",
+        "internalID": 615,
+        "uniqueEntryID": "S93y8gxrSHFNCFmwJ"
+    },
+    {
+        "number": "76",
+        "name": "pill bug",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins57.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectDangomushiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectDangomushiCropped.png",
+        "sell": 250,
+        "whereHow": "From hitting rocks",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "50",
+        "nhJan": [
+            "11 PM –\u00A04 PM"
+        ],
+        "nhFeb": [
+            "11 PM –\u00A04 PM"
+        ],
+        "nhMar": [
+            "11 PM –\u00A04 PM"
+        ],
+        "nhApr": [
+            "11 PM –\u00A04 PM"
+        ],
+        "nhMay": [
+            "11 PM –\u00A04 PM"
+        ],
+        "nhJun": [
+            "11 PM –\u00A04 PM"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "11 PM –\u00A04 PM"
+        ],
+        "nhOct": [
+            "11 PM –\u00A04 PM"
+        ],
+        "nhNov": [
+            "11 PM –\u00A04 PM"
+        ],
+        "nhDec": [
+            "11 PM –\u00A04 PM"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "11 PM –\u00A04 PM"
+        ],
+        "shApr": [
+            "11 PM –\u00A04 PM"
+        ],
+        "shMay": [
+            "11 PM –\u00A04 PM"
+        ],
+        "shJun": [
+            "11 PM –\u00A04 PM"
+        ],
+        "shJul": [
+            "11 PM –\u00A04 PM"
+        ],
+        "shAug": [
+            "11 PM –\u00A04 PM"
+        ],
+        "shSep": [
+            "11 PM –\u00A04 PM"
+        ],
+        "shOct": [
+            "11 PM –\u00A04 PM"
+        ],
+        "shNov": [
+            "11 PM –\u00A04 PM"
+        ],
+        "shDec": [
+            "11 PM –\u00A04 PM"
+        ],
+        "color1": "Black",
+        "color2": "Blue",
+        "iconFilename": "Ins57",
+        "critterpediaFilename": "InsectDangomushi",
+        "furnitureFilename": "FtrInsectDangomushi",
+        "internalID": 590,
+        "uniqueEntryID": "SGHXhcTzaNJD2z926"
+    },
+    {
+        "number": "65",
+        "name": "horned hercules",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins54.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHerakuresuohkabutoCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHerakuresuohkabutoCropped.png",
+        "sell": 12000,
+        "whereHow": "On palm trees",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 100,
+        "spawnRates": "1",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhAug": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shFeb": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Yellow",
+        "color2": "Black",
+        "iconFilename": "Ins54",
+        "critterpediaFilename": "InsectHerakuresuohkabuto",
+        "furnitureFilename": "FtrInsectHerakuresuohkabuto",
+        "internalID": 600,
+        "uniqueEntryID": "TqhEomNEMDZ2wcTpk"
+    },
+    {
+        "number": "1",
+        "name": "common butterfly",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins0.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMonshirochoCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMonshirochoCropped.png",
+        "sell": 160,
+        "whereHow": "Flying",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "60",
+        "nhJan": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhFeb": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhMar": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhApr": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhMay": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhJun": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhOct": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhNov": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhDec": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shApr": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shMay": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shJun": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shJul": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shAug": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shSep": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shOct": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shNov": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shDec": [
+            "4 AM –\u00A07 PM"
+        ],
+        "color1": "White",
+        "color2": "Green",
+        "iconFilename": "Ins0",
+        "critterpediaFilename": "InsectMonshirocho",
+        "furnitureFilename": "FtrInsectMonshirocho",
+        "internalID": 626,
+        "uniqueEntryID": "tRJxp5N9XbwAGQHZc"
+    },
+    {
+        "number": "45",
+        "name": "jewel beetle",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins44.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectTamamushiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectTamamushiCropped.png",
+        "sell": 2400,
+        "whereHow": "On tree stumps",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "5",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Green",
+        "color2": "Black",
+        "iconFilename": "Ins44",
+        "critterpediaFilename": "InsectTamamushi",
+        "furnitureFilename": "FtrInsectTamamushi",
+        "internalID": 645,
+        "uniqueEntryID": "TYFowxRG4ydcvotkQ"
+    },
+    {
+        "number": "70",
+        "name": "hermit crab",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins66.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectYadokariCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectYadokariCropped.png",
+        "sell": 1000,
+        "whereHow": "Disguised on shoreline",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "25",
+        "nhJan": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhFeb": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhMar": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhApr": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhMay": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhJun": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhJul": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhAug": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhSep": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhOct": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhNov": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhDec": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shJan": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shFeb": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shMar": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shApr": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shMay": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shJun": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shJul": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shAug": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shSep": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shOct": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shNov": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shDec": [
+            "7 PM –\u00A08 AM"
+        ],
+        "color1": "Beige",
+        "color2": "Pink",
+        "iconFilename": "Ins66",
+        "critterpediaFilename": "InsectYadokari",
+        "furnitureFilename": "FtrInsectYadokari",
+        "internalID": 651,
+        "uniqueEntryID": "TzbsfYgE4k2qo7fHN"
+    },
+    {
+        "number": "14",
+        "name": "Atlas moth",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins10.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectYonagunisanCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectYonagunisanCropped.png",
+        "sell": 3000,
+        "whereHow": "On trees (any kind)",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "5",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhMay": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhJun": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhJul": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhAug": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhSep": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shFeb": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shMar": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shNov": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shDec": [
+            "7 PM –\u00A04 AM"
+        ],
+        "color1": "Orange",
+        "color2": "Yellow",
+        "iconFilename": "Ins10",
+        "critterpediaFilename": "InsectYonagunisan",
+        "furnitureFilename": "FtrInsectYonagunisan",
+        "internalID": 652,
+        "uniqueEntryID": "u2GhYQJXDCQKp7AQ8"
+    },
+    {
+        "number": "77",
+        "name": "centipede",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins60.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMukadeCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMukadeCropped.png",
+        "sell": 300,
+        "whereHow": "From hitting rocks",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "30",
+        "nhJan": [
+            "4 PM –\u00A011 PM"
+        ],
+        "nhFeb": [
+            "4 PM –\u00A011 PM"
+        ],
+        "nhMar": [
+            "4 PM –\u00A011 PM"
+        ],
+        "nhApr": [
+            "4 PM –\u00A011 PM"
+        ],
+        "nhMay": [
+            "4 PM –\u00A011 PM"
+        ],
+        "nhJun": [
+            "4 PM –\u00A011 PM"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "4 PM –\u00A011 PM"
+        ],
+        "nhOct": [
+            "4 PM –\u00A011 PM"
+        ],
+        "nhNov": [
+            "4 PM –\u00A011 PM"
+        ],
+        "nhDec": [
+            "4 PM –\u00A011 PM"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "4 PM –\u00A011 PM"
+        ],
+        "shApr": [
+            "4 PM –\u00A011 PM"
+        ],
+        "shMay": [
+            "4 PM –\u00A011 PM"
+        ],
+        "shJun": [
+            "4 PM –\u00A011 PM"
+        ],
+        "shJul": [
+            "4 PM –\u00A011 PM"
+        ],
+        "shAug": [
+            "4 PM –\u00A011 PM"
+        ],
+        "shSep": [
+            "4 PM –\u00A011 PM"
+        ],
+        "shOct": [
+            "4 PM –\u00A011 PM"
+        ],
+        "shNov": [
+            "4 PM –\u00A011 PM"
+        ],
+        "shDec": [
+            "4 PM –\u00A011 PM"
+        ],
+        "color1": "Black",
+        "color2": "Orange",
+        "iconFilename": "Ins60",
+        "critterpediaFilename": "InsectMukade",
+        "furnitureFilename": "FtrInsectMukade",
+        "internalID": 628,
+        "uniqueEntryID": "ubStMQwHMJJcYje38"
+    },
+    {
+        "number": "53",
+        "name": "drone beetle",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins75.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKanabunCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKanabunCropped.png",
+        "sell": 200,
+        "whereHow": "On trees (any kind)",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "40",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Green",
+        "color2": "Blue",
+        "iconFilename": "Ins75",
+        "critterpediaFilename": "InsectKanabun",
+        "furnitureFilename": "FtrInsectKanabun",
+        "internalID": 3480,
+        "uniqueEntryID": "uXmtRAQgY3g596tov"
+    },
+    {
+        "number": "5",
+        "name": "common bluebottle",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins72.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectAosujiagehaCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAosujiagehaCropped.png",
+        "sell": 300,
+        "whereHow": "Flying",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "70",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhMay": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhJun": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhJul": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhAug": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shFeb": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shNov": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shDec": [
+            "4 AM –\u00A07 PM"
+        ],
+        "color1": "Black",
+        "color2": "Green",
+        "iconFilename": "Ins72",
+        "critterpediaFilename": "InsectAosujiageha",
+        "furnitureFilename": "FtrInsectAosujiageha",
+        "internalID": 3477,
+        "uniqueEntryID": "vgkW2eovbpxNuGsFZ"
+    },
+    {
+        "number": "66",
+        "name": "walking stick",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins35.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectNanafushiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectNanafushiCropped.png",
+        "sell": 600,
+        "whereHow": "On trees (any kind)",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "10",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "4 AM – 8 AM",
+            "5 PM –\u00A07 PM"
+        ],
+        "nhAug": [
+            "4 AM – 8 AM",
+            "5 PM –\u00A07 PM"
+        ],
+        "nhSep": [
+            "4 AM – 8 AM",
+            "5 PM –\u00A07 PM"
+        ],
+        "nhOct": [
+            "4 AM – 8 AM",
+            "5 PM –\u00A07 PM"
+        ],
+        "nhNov": [
+            "4 AM – 8 AM",
+            "5 PM –\u00A07 PM"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "4 AM – 8 AM",
+            "5 PM –\u00A07 PM"
+        ],
+        "shFeb": [
+            "4 AM – 8 AM",
+            "5 PM –\u00A07 PM"
+        ],
+        "shMar": [
+            "4 AM – 8 AM",
+            "5 PM –\u00A07 PM"
+        ],
+        "shApr": [
+            "4 AM – 8 AM",
+            "5 PM –\u00A07 PM"
+        ],
+        "shMay": [
+            "4 AM – 8 AM",
+            "5 PM –\u00A07 PM"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Brown",
+        "color2": "Yellow",
+        "iconFilename": "Ins35",
+        "critterpediaFilename": "InsectNanafushi",
+        "furnitureFilename": "FtrInsectNanafushi",
+        "internalID": 630,
+        "uniqueEntryID": "WQjgrjYotbwH59vXG"
+    },
+    {
+        "number": "54",
+        "name": "goliath beetle",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins55.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectGoraiasuohtsunohanamuguriCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectGoraiasuohtsunohanamuguriCropped.png",
+        "sell": 8000,
+        "whereHow": "On palm trees",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 100,
+        "spawnRates": "2",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhJul": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhAug": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhSep": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shFeb": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shMar": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "5 PM –\u00A08 AM"
+        ],
+        "color1": "Red",
+        "color2": "Black",
+        "iconFilename": "Ins55",
+        "critterpediaFilename": "InsectGoraiasuohtsunohanamuguri",
+        "furnitureFilename": "FtrInsectGoraiasuohtsunohanamuguri",
+        "internalID": 596,
+        "uniqueEntryID": "wZQMZfhtRyPFAapmF"
+    },
+    {
+        "number": "72",
+        "name": "fly",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins59.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHaeCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHaeCropped.png",
+        "sell": 60,
+        "whereHow": "Flying near trash (boots, tires, cans) or rotten turnips",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "0",
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Black",
+        "color2": "White",
+        "iconFilename": "Ins59",
+        "critterpediaFilename": "InsectHae",
+        "furnitureFilename": "FtrInsectHae",
+        "internalID": 597,
+        "uniqueEntryID": "xdBmuMgXJ6jGxpabK"
+    },
+    {
+        "number": "80",
+        "name": "scorpion",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins63.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectSasoriCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectSasoriCropped.png",
+        "sell": 8000,
+        "whereHow": "On the ground",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "2",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhJun": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhJul": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhAug": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhSep": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhOct": [
+            "7 PM –\u00A04 AM"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shFeb": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shMar": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shApr": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "7 PM –\u00A04 AM"
+        ],
+        "shDec": [
+            "7 PM –\u00A04 AM"
+        ],
+        "color1": "Black",
+        "color2": "Black",
+        "iconFilename": "Ins63",
+        "critterpediaFilename": "InsectSasori",
+        "furnitureFilename": "FtrInsectSasori",
+        "internalID": 640,
+        "uniqueEntryID": "xMzHsHbjvvicZvYxg"
+    },
+    {
+        "number": "24",
+        "name": "honeybee",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins11.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMitsubachiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMitsubachiCropped.png",
+        "sell": 200,
+        "whereHow": "Flying near flowers",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "30",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhApr": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhMay": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhJun": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhJul": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shOct": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shNov": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shDec": [
+            "8 AM –\u00A05 PM"
+        ],
+        "color1": "Yellow",
+        "color2": "Blue",
+        "iconFilename": "Ins11",
+        "critterpediaFilename": "InsectMitsubachi",
+        "furnitureFilename": "FtrInsectMitsubachi",
+        "internalID": 623,
+        "uniqueEntryID": "yeWiAiqDRwinvumDm"
+    },
+    {
+        "number": "55",
+        "name": "saw stag",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins46.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectNokogirikuwagataCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectNokogirikuwagataCropped.png",
+        "sell": 2000,
+        "whereHow": "On trees (any kind)",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "20",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Brown",
+        "color2": "Black",
+        "iconFilename": "Ins46",
+        "critterpediaFilename": "InsectNokogirikuwagata",
+        "furnitureFilename": "FtrInsectNokogirikuwagata",
+        "internalID": 632,
+        "uniqueEntryID": "YQq3iSiBcBAHTWxc2"
+    },
+    {
+        "number": "62",
+        "name": "horned dynastid",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins51.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKabutomushiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKabutomushiCropped.png",
+        "sell": 1350,
+        "whereHow": "On trees (any kind)",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "35",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhAug": [
+            "5 PM –\u00A08 AM"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shFeb": [
+            "5 PM –\u00A08 AM"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Brown",
+        "color2": "Black",
+        "iconFilename": "Ins51",
+        "critterpediaFilename": "InsectKabutomushi",
+        "furnitureFilename": "FtrInsectKabutomushi",
+        "internalID": 612,
+        "uniqueEntryID": "zaG8qsKLpbTjysx7D"
+    },
+    {
+        "number": "25",
+        "name": "wasp",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins12.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHachiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHachiCropped.png",
+        "sell": 2500,
+        "whereHow": "Shaking trees",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "0",
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Yellow",
+        "color2": "Orange",
+        "iconFilename": "Ins12",
+        "critterpediaFilename": "InsectHachi",
+        "furnitureFilename": "FtrInsectHachi",
+        "internalID": 643,
+        "uniqueEntryID": "ZEfBHqM6pFEddBezw"
+    },
+    {
+        "number": "19",
+        "name": "grasshopper",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins32.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKirigirisuCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKirigirisuCropped.png",
+        "sell": 160,
+        "whereHow": "On the ground",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "60",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhAug": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhSep": [
+            "8 AM –\u00A05 PM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shFeb": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shMar": [
+            "8 AM –\u00A05 PM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Green",
+        "color2": "Beige",
+        "iconFilename": "Ins32",
+        "critterpediaFilename": "InsectKirigirisu",
+        "furnitureFilename": "FtrInsectKirigirisu",
+        "internalID": 613,
+        "uniqueEntryID": "zkzSLJPkkcwXwShKc"
+    },
+    {
+        "number": "40",
+        "name": "giant water bug",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins76.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectTagameCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectTagameCropped.png",
+        "sell": 2000,
+        "whereHow": "On rivers/ponds",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 50,
+        "spawnRates": "5",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhMay": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhJun": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhJul": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhAug": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhSep": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shFeb": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shMar": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shNov": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shDec": [
+            "7 PM –\u00A08 AM"
+        ],
+        "color1": "Brown",
+        "color2": "Blue",
+        "iconFilename": "Ins76",
+        "critterpediaFilename": "InsectTagame",
+        "furnitureFilename": "FtrInsectTagame",
+        "internalID": 5157,
+        "uniqueEntryID": "ZsDdBvqAjZMG8EQkZ"
+    },
+    {
+        "number": "7",
+        "name": "great purple emperor",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins74.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectOhmurasakiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOhmurasakiCropped.png",
+        "sell": 3000,
+        "whereHow": "Flying near flowers",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 50,
+        "spawnRates": "5",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhJun": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhJul": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhAug": [
+            "4 AM –\u00A07 PM"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shFeb": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "4 AM –\u00A07 PM"
+        ],
+        "shDec": [
+            "4 AM –\u00A07 PM"
+        ],
+        "color1": "Purple",
+        "color2": "Orange",
+        "iconFilename": "Ins74",
+        "critterpediaFilename": "InsectOhmurasaki",
+        "furnitureFilename": "FtrInsectOhmurasaki",
+        "internalID": 3479,
+        "uniqueEntryID": "ZSre7sheZoRqsJwHQ"
+    },
+    {
+        "number": "42",
+        "name": "man-faced stink bug",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins78.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectJinmenkamemushiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectJinmenkamemushiCropped.png",
+        "sell": 1000,
+        "whereHow": "On flowers",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "20",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhApr": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhMay": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhJun": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhJul": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhAug": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhSep": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhOct": [
+            "7 PM –\u00A08 AM"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shFeb": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shMar": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shApr": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shOct": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shNov": [
+            "7 PM –\u00A08 AM"
+        ],
+        "shDec": [
+            "7 PM –\u00A08 AM"
+        ],
+        "color1": "Black",
+        "color2": "Orange",
+        "iconFilename": "Ins78",
+        "critterpediaFilename": "InsectJinmenkamemushi",
+        "furnitureFilename": "FtrInsectJinmenkamemushi",
+        "internalID": 3483,
+        "uniqueEntryID": "zvr84Jvf4s6K23XJ5"
+    },
+    {
+        "number": "18",
+        "name": "rice grasshopper",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins67.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectInagoCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectInagoCropped.png",
+        "sell": 400,
+        "whereHow": "On the ground",
+        "weather": "Any weather",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "20",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhSep": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhOct": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhNov": [
+            "8 AM –\u00A07 PM"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shMar": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shApr": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shMay": [
+            "8 AM –\u00A07 PM"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Green",
+        "color2": "Yellow",
+        "iconFilename": "Ins67",
+        "critterpediaFilename": "InsectInago",
+        "furnitureFilename": "FtrInsectInago",
+        "internalID": 605,
+        "uniqueEntryID": "ZxXDxrgPvXEHz24Ni"
+    },
+    {
+        "number": "44",
+        "name": "tiger beetle",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins70.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHanmyouCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHanmyouCropped.png",
+        "sell": 1500,
+        "whereHow": "On the ground",
+        "weather": "Any except rain",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "15",
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Green",
+        "color2": "Yellow",
+        "iconFilename": "Ins70",
+        "critterpediaFilename": "InsectHanmyou",
+        "furnitureFilename": "FtrInsectHanmyou",
+        "internalID": 599,
+        "uniqueEntryID": "zzGvu3797KnMb4LCD"
+    }
+]

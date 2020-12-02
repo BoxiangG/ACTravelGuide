@@ -1,0 +1,38 @@
+PODS:
+  - ImageSlideshow (1.8.3):
+    - ImageSlideshow/Core (= 1.8.3)
+  - ImageSlideshow/Core (1.8.3)
+  - ImageSlideshow/Kingfisher (1.8.3):
+    - ImageSlideshow/Core
+    - Kingfisher (> 3.0)
+  - Kingfisher (5.13.4):
+    - Kingfisher/Core (= 5.13.4)
+  - Kingfisher/Core (5.13.4)
+  - Realm (5.0.1):
+    - Realm/Headers (= 5.0.1)
+  - Realm/Headers (5.0.1)
+  - RealmSwift (5.0.1):
+    - Realm (= 5.0.1)
+
+DEPENDENCIES:
+  - ImageSlideshow (~> 1.8.3)
+  - ImageSlideshow/Kingfisher
+  - Kingfisher (~> 5.13)
+  - RealmSwift
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - ImageSlideshow
+    - Kingfisher
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  ImageSlideshow: 4694d7d699a1549582e7cc631fb392d8f91630f3
+  Kingfisher: d2279a7abece3c7f25a80cd2b7f363ca5cf3f44c
+  Realm: d36cfc336d76d2e15b13651beb6050f49354de4b
+  RealmSwift: f29ae0ceaf4fbaf4803c40bbebd838ea2beb903a
+
+PODFILE CHECKSUM: 94013fb795c5e0fd731ef071f5438ae041f39449
+
+COCOAPODS: 1.9.3

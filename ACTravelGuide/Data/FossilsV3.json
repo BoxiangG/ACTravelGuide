@@ -1,0 +1,1389 @@
+[
+    {
+        "name": "sabertooth skull",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilSmilodonA.png",
+        "buy": -1,
+        "sell": 2500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 3",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilSmilodonA",
+        "internalID": 213,
+        "uniqueEntryID": "4xkrLpphWXubgtRPw"
+    },
+    {
+        "name": "ankylo torso",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAnkylosaurusB.png",
+        "buy": -1,
+        "sell": 3000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilAnkylosaurusB",
+        "internalID": 170,
+        "uniqueEntryID": "5QNzf5buPckabN6cR"
+    },
+    {
+        "name": "brachio pelvis",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrachiosaurusC.png",
+        "buy": -1,
+        "sell": 5000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilBrachiosaurusC",
+        "internalID": 4690,
+        "uniqueEntryID": "5zCdNszyap3Gs7hZY"
+    },
+    {
+        "name": "ptera body",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilPteranodonA.png",
+        "buy": -1,
+        "sell": 4000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilPteranodonA",
+        "internalID": 206,
+        "uniqueEntryID": "6oAjXjSy7DqrbifKT"
+    },
+    {
+        "name": "right megalo side",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilMegalocerosA.png",
+        "buy": -1,
+        "sell": 5500,
+        "color1": "Beige",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 3",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilMegalocerosA",
+        "internalID": 4658,
+        "uniqueEntryID": "6qFWqu3vKF9SuPjRE"
+    },
+    {
+        "name": "parasaur skull",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilParasaurolophusA.png",
+        "buy": -1,
+        "sell": 3500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilParasaurolophusA",
+        "internalID": 202,
+        "uniqueEntryID": "6xAZRPKhHNNQLofoE"
+    },
+    {
+        "name": "plesio tail",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilElasmosaurusC.png",
+        "buy": -1,
+        "sell": 4500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilElasmosaurusC",
+        "internalID": 236,
+        "uniqueEntryID": "7dLqS33KYzWRFvkde"
+    },
+    {
+        "name": "spino tail",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilSpinosaurusC.png",
+        "buy": -1,
+        "sell": 2500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilSpinosaurusC",
+        "internalID": 224,
+        "uniqueEntryID": "7gnFZgeb6qq6K34Tb"
+    },
+    {
+        "name": "left megalo side",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilMegalocerosB.png",
+        "buy": -1,
+        "sell": 4000,
+        "color1": "Beige",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 3",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilMegalocerosB",
+        "internalID": 4659,
+        "uniqueEntryID": "7YzSLZWsjXQNp5xRY"
+    },
+    {
+        "name": "megacero skull",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrontotheriumA.png",
+        "buy": -1,
+        "sell": 4500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 3",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilBrontotheriumA",
+        "internalID": 180,
+        "uniqueEntryID": "8CF9fvWstP6cWRbRD"
+    },
+    {
+        "name": "ophthalmo torso",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilOphthalmosaurusB.png",
+        "buy": -1,
+        "sell": 2000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilOphthalmosaurusB",
+        "internalID": 193,
+        "uniqueEntryID": "8tzwNNwbSKAeWAzfP"
+    },
+    {
+        "name": "mammoth skull",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilMammothA.png",
+        "buy": -1,
+        "sell": 3000,
+        "color1": "Beige",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 3",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilMammothA",
+        "internalID": 195,
+        "uniqueEntryID": "96CTubnHfYqmHyd3s"
+    },
+    {
+        "name": "T. rex skull",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTRexA.png",
+        "buy": -1,
+        "sell": 6000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": true,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilTRexA",
+        "internalID": 238,
+        "uniqueEntryID": "9DunYGEb3QhJLwpPu"
+    },
+    {
+        "name": "diplo tail tip",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusF.png",
+        "buy": -1,
+        "sell": 4000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilDiplodocusF",
+        "internalID": 7251,
+        "uniqueEntryID": "a2r3s8t7bg4uZvdSy"
+    },
+    {
+        "name": "right quetzal wing",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilQuetzalcoatlusB.png",
+        "buy": -1,
+        "sell": 5000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilQuetzalcoatlusB",
+        "internalID": 4698,
+        "uniqueEntryID": "aAXrsXuY5cTjq4yKi"
+    },
+    {
+        "name": "T. rex tail",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTRexC.png",
+        "buy": -1,
+        "sell": 5000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilTRexC",
+        "internalID": 240,
+        "uniqueEntryID": "AfeJAEkmJCdgtMrWj"
+    },
+    {
+        "name": "amber",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAmber.png",
+        "buy": -1,
+        "sell": 1200,
+        "color1": "Yellow",
+        "color2": "Yellow",
+        "size": "1x1",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 1",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilAmber",
+        "internalID": 294,
+        "uniqueEntryID": "ANAhATcHWvAGEhRnt"
+    },
+    {
+        "name": "spino torso",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilSpinosaurusB.png",
+        "buy": -1,
+        "sell": 3000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilSpinosaurusB",
+        "internalID": 223,
+        "uniqueEntryID": "Ap8LgQD6Ht4dryTjk"
+    },
+    {
+        "name": "pachy tail",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilPachycephalosaurusB.png",
+        "buy": -1,
+        "sell": 3500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilPachycephalosaurusB",
+        "internalID": 199,
+        "uniqueEntryID": "assKMf95bhB6pe3PM"
+    },
+    {
+        "name": "dunkleosteus",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDunkleosteus.png",
+        "buy": -1,
+        "sell": 3500,
+        "color1": "Gray",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 1",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilDunkleosteus",
+        "internalID": 4660,
+        "uniqueEntryID": "AtCoTAfo9bKFiGzFD"
+    },
+    {
+        "name": "brachio skull",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrachiosaurusA.png",
+        "buy": -1,
+        "sell": 6000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilBrachiosaurusA",
+        "internalID": 4688,
+        "uniqueEntryID": "bECfoiR8RoGTXmqCL"
+    },
+    {
+        "name": "eusthenopteron",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilFirstAmphibian.png",
+        "buy": -1,
+        "sell": 2000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "1x1",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 1",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilFirstAmphibian",
+        "internalID": 4663,
+        "uniqueEntryID": "BHhdGwq7YeZuHmkEW"
+    },
+    {
+        "name": "juramaia",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilFirstMammal.png",
+        "buy": -1,
+        "sell": 1500,
+        "color1": "Beige",
+        "color2": "Brown",
+        "size": "1x1",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilFirstMammal",
+        "internalID": 4665,
+        "uniqueEntryID": "Ch68dGRXX2mu7ABgC"
+    },
+    {
+        "name": "archelon tail",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilArchelonB.png",
+        "buy": -1,
+        "sell": 3500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilArchelonB",
+        "internalID": 178,
+        "uniqueEntryID": "CtosFxKjG5nzLGi4t"
+    },
+    {
+        "name": "archelon skull",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilArchelonA.png",
+        "buy": -1,
+        "sell": 4000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilArchelonA",
+        "internalID": 177,
+        "uniqueEntryID": "cYZhXfyNiqZy2hgeM"
+    },
+    {
+        "name": "iguanodon torso",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilIguanodonB.png",
+        "buy": -1,
+        "sell": 3500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilIguanodonB",
+        "internalID": 189,
+        "uniqueEntryID": "dJRCXccvviu6chWyK"
+    },
+    {
+        "name": "stego tail",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilStegosaurusC.png",
+        "buy": -1,
+        "sell": 4000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilStegosaurusC",
+        "internalID": 228,
+        "uniqueEntryID": "DQgfeZCeApGKBazBL"
+    },
+    {
+        "name": "stego skull",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilStegosaurusA.png",
+        "buy": -1,
+        "sell": 5000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilStegosaurusA",
+        "internalID": 226,
+        "uniqueEntryID": "DqsxWDoY5Mue6eQxg"
+    },
+    {
+        "name": "deinony tail",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDeinonychusB.png",
+        "buy": -1,
+        "sell": 2500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilDeinonychusB",
+        "internalID": 211,
+        "uniqueEntryID": "e3NuAF5y9iv7J52Sv"
+    },
+    {
+        "name": "parasaur tail",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilParasaurolophusC.png",
+        "buy": -1,
+        "sell": 2500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilParasaurolophusC",
+        "internalID": 204,
+        "uniqueEntryID": "fEFd7AbLQpNwkzC8a"
+    },
+    {
+        "name": "dinosaur track",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilIchnology.png",
+        "buy": -1,
+        "sell": 1000,
+        "color1": "Beige",
+        "color2": "Brown",
+        "size": "1x1",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilIchnology",
+        "internalID": 300,
+        "uniqueEntryID": "fJWu7dHhZuKxjRwTy"
+    },
+    {
+        "name": "brachio chest",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrachiosaurusB.png",
+        "buy": -1,
+        "sell": 5500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilBrachiosaurusB",
+        "internalID": 4689,
+        "uniqueEntryID": "FykMyEnM2Xhzd54x8"
+    },
+    {
+        "name": "parasaur torso",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilParasaurolophusB.png",
+        "buy": -1,
+        "sell": 3000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilParasaurolophusB",
+        "internalID": 203,
+        "uniqueEntryID": "GgX3Tdgzmf4hjguGF"
+    },
+    {
+        "name": "left ptera wing",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilPteranodonC.png",
+        "buy": -1,
+        "sell": 4500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilPteranodonC",
+        "internalID": 208,
+        "uniqueEntryID": "GJtNP9DjAFjGQdMPN"
+    },
+    {
+        "name": "iguanodon tail",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilIguanodonC.png",
+        "buy": -1,
+        "sell": 3000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilIguanodonC",
+        "internalID": 190,
+        "uniqueEntryID": "GL2CuJXa4gYb4E4cE"
+    },
+    {
+        "name": "coprolite",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilCoprolite.png",
+        "buy": -1,
+        "sell": 1100,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "1x1",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilCoprolite",
+        "internalID": 296,
+        "uniqueEntryID": "hKbRzACFb4D24W8HJ"
+    },
+    {
+        "name": "mammoth torso",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilMammothB.png",
+        "buy": -1,
+        "sell": 2500,
+        "color1": "Beige",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 3",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilMammothB",
+        "internalID": 196,
+        "uniqueEntryID": "hT68CXm4z8LreXqWS"
+    },
+    {
+        "name": "diplo tail",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusE.png",
+        "buy": -1,
+        "sell": 5000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilDiplodocusE",
+        "internalID": 220,
+        "uniqueEntryID": "iKsrdn2aAxSfe83qZ"
+    },
+    {
+        "name": "plesio skull",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilElasmosaurusA.png",
+        "buy": -1,
+        "sell": 4000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilElasmosaurusA",
+        "internalID": 234,
+        "uniqueEntryID": "ioAEHvPecRoCBLJsK"
+    },
+    {
+        "name": "sabertooth tail",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilSmilodonB.png",
+        "buy": -1,
+        "sell": 2000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 3",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilSmilodonB",
+        "internalID": 214,
+        "uniqueEntryID": "iXfTo3dxakDrLZxnv"
+    },
+    {
+        "name": "plesio body",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilElasmosaurusB.png",
+        "buy": -1,
+        "sell": 4500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilElasmosaurusB",
+        "internalID": 235,
+        "uniqueEntryID": "jbfiPhmAcserk23rm"
+    },
+    {
+        "name": "diplo pelvis",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusD.png",
+        "buy": -1,
+        "sell": 4500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilDiplodocusD",
+        "internalID": 219,
+        "uniqueEntryID": "kLYuD5QgNqfKJPfj7"
+    },
+    {
+        "name": "archaeopteryx",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilArchaeopteryx.png",
+        "buy": -1,
+        "sell": 1300,
+        "color1": "Beige",
+        "color2": "Brown",
+        "size": "1x1",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilArchaeopteryx",
+        "internalID": 298,
+        "uniqueEntryID": "ky9pkmc2fmK9thuFH"
+    },
+    {
+        "name": "dimetrodon torso",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDimetrodonB.png",
+        "buy": -1,
+        "sell": 5000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilDimetrodonB",
+        "internalID": 185,
+        "uniqueEntryID": "LcbJqY3JzLcQRoPGT"
+    },
+    {
+        "name": "acanthostega",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilFirstFourLegs.png",
+        "buy": -1,
+        "sell": 2000,
+        "color1": "Beige",
+        "color2": "Brown",
+        "size": "1x1",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 1",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilFirstFourLegs",
+        "internalID": 4664,
+        "uniqueEntryID": "LQkRP3kBn3T2jBboF"
+    },
+    {
+        "name": "stego torso",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilStegosaurusB.png",
+        "buy": -1,
+        "sell": 4500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilStegosaurusB",
+        "internalID": 227,
+        "uniqueEntryID": "Lv7ChzGsofd3qEjDL"
+    },
+    {
+        "name": "diplo skull",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusA.png",
+        "buy": -1,
+        "sell": 5000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilDiplodocusA",
+        "internalID": 216,
+        "uniqueEntryID": "n6cAybPhTSykws3Mb"
+    },
+    {
+        "name": "megacero torso",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrontotheriumB.png",
+        "buy": -1,
+        "sell": 3500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 3",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilBrontotheriumB",
+        "internalID": 181,
+        "uniqueEntryID": "NcbHKXp9gq6Y96Wtw"
+    },
+    {
+        "name": "megacero tail",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrontotheriumC.png",
+        "buy": -1,
+        "sell": 3000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 3",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilBrontotheriumC",
+        "internalID": 182,
+        "uniqueEntryID": "NQcfdw5y6fokTPNGs"
+    },
+    {
+        "name": "deinony torso",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDeinonychusA.png",
+        "buy": -1,
+        "sell": 3000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilDeinonychusA",
+        "internalID": 210,
+        "uniqueEntryID": "NSe8AQvNigyZqmLzo"
+    },
+    {
+        "name": "diplo neck",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusB.png",
+        "buy": -1,
+        "sell": 4500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilDiplodocusB",
+        "internalID": 217,
+        "uniqueEntryID": "odxoEbLSduTmarKkm"
+    },
+    {
+        "name": "ammonite",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAmmonoidea.png",
+        "buy": -1,
+        "sell": 1100,
+        "color1": "Beige",
+        "color2": "Brown",
+        "size": "1x1",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 1",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilAmmonoidea",
+        "internalID": 295,
+        "uniqueEntryID": "ojNKnr4YRrmPi2gPo"
+    },
+    {
+        "name": "iguanodon skull",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilIguanodonA.png",
+        "buy": -1,
+        "sell": 4000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilIguanodonA",
+        "internalID": 188,
+        "uniqueEntryID": "pDn2iASHjo7yWKE3k"
+    },
+    {
+        "name": "T. rex torso",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTRexB.png",
+        "buy": -1,
+        "sell": 5500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilTRexB",
+        "internalID": 239,
+        "uniqueEntryID": "q9voJCHs9X5b32TWf"
+    },
+    {
+        "name": "spino skull",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilSpinosaurusA.png",
+        "buy": -1,
+        "sell": 4000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": true,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilSpinosaurusA",
+        "internalID": 222,
+        "uniqueEntryID": "qbzMLGPcJWikeTWAG"
+    },
+    {
+        "name": "trilobite",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTrilobite.png",
+        "buy": -1,
+        "sell": 1300,
+        "color1": "Beige",
+        "color2": "Brown",
+        "size": "1x1",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 1",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilTrilobite",
+        "internalID": 303,
+        "uniqueEntryID": "qFoqCvDTBd2oyC5Gz"
+    },
+    {
+        "name": "ankylo skull",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAnkylosaurusA.png",
+        "buy": -1,
+        "sell": 3500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilAnkylosaurusA",
+        "internalID": 169,
+        "uniqueEntryID": "QQjxKmQ8Aac9cSoM2"
+    },
+    {
+        "name": "left quetzal wing",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilQuetzalcoatlusC.png",
+        "buy": -1,
+        "sell": 5000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilQuetzalcoatlusC",
+        "internalID": 4699,
+        "uniqueEntryID": "rS4iizyMDxN4yizLT"
+    },
+    {
+        "name": "brachio tail",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrachiosaurusD.png",
+        "buy": -1,
+        "sell": 5500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilBrachiosaurusD",
+        "internalID": 4691,
+        "uniqueEntryID": "RTtavecsrgWSGLm7C"
+    },
+    {
+        "name": "tricera torso",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTriceratopsB.png",
+        "buy": -1,
+        "sell": 5000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilTriceratopsB",
+        "internalID": 243,
+        "uniqueEntryID": "s2EGQuuStMSwFdT8y"
+    },
+    {
+        "name": "dimetrodon skull",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDimetrodonA.png",
+        "buy": -1,
+        "sell": 5500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilDimetrodonA",
+        "internalID": 184,
+        "uniqueEntryID": "sEuSt7ycajTAqSzKg"
+    },
+    {
+        "name": "quetzal torso",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilQuetzalcoatlusA.png",
+        "buy": -1,
+        "sell": 4500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilQuetzalcoatlusA",
+        "internalID": 4697,
+        "uniqueEntryID": "SoS8Q55cyTsEyqeZi"
+    },
+    {
+        "name": "ophthalmo skull",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilOphthalmosaurusA.png",
+        "buy": -1,
+        "sell": 2500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilOphthalmosaurusA",
+        "internalID": 192,
+        "uniqueEntryID": "Sq6yQQ6EH2AMqQo2A"
+    },
+    {
+        "name": "pachy skull",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilPachycephalosaurusA.png",
+        "buy": -1,
+        "sell": 4000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": true,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilPachycephalosaurusA",
+        "internalID": 198,
+        "uniqueEntryID": "tgNyyjMaE9GbzMJzQ"
+    },
+    {
+        "name": "tricera tail",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTriceratopsC.png",
+        "buy": -1,
+        "sell": 4500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilTriceratopsC",
+        "internalID": 244,
+        "uniqueEntryID": "TXbdqeAkhjtqBJAWC"
+    },
+    {
+        "name": "anomalocaris",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAnomalocaris.png",
+        "buy": -1,
+        "sell": 2000,
+        "color1": "Black",
+        "color2": "Gray",
+        "size": "1x1",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 1",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilAnomalocaris",
+        "internalID": 4651,
+        "uniqueEntryID": "TYX964LM2tNZ3SYKC"
+    },
+    {
+        "name": "tricera skull",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTriceratopsA.png",
+        "buy": -1,
+        "sell": 5500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": true,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilTriceratopsA",
+        "internalID": 242,
+        "uniqueEntryID": "ueCYTncJDsf2RYJYx"
+    },
+    {
+        "name": "australopith",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAustralopithecus.png",
+        "buy": -1,
+        "sell": 1100,
+        "color1": "Beige",
+        "color2": "Brown",
+        "size": "1x1",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 3",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilAustralopithecus",
+        "internalID": 301,
+        "uniqueEntryID": "vE5WQNHepjDb36K6g"
+    },
+    {
+        "name": "ankylo tail",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAnkylosaurusC.png",
+        "buy": -1,
+        "sell": 2500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilAnkylosaurusC",
+        "internalID": 171,
+        "uniqueEntryID": "wLWBm2R727RC3qSL2"
+    },
+    {
+        "name": "myllokunmingia",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilFirstFish.png",
+        "buy": -1,
+        "sell": 1500,
+        "color1": "Gray",
+        "color2": "Gray",
+        "size": "1x1",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 1",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilFirstFish",
+        "internalID": 4662,
+        "uniqueEntryID": "XjLHtDMYXqwjZd4wT"
+    },
+    {
+        "name": "shark-tooth pattern",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilShark.png",
+        "buy": -1,
+        "sell": 1000,
+        "color1": "Beige",
+        "color2": "Brown",
+        "size": "1x1",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 1",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilShark",
+        "internalID": 302,
+        "uniqueEntryID": "yKE5xwKL9EeCJdN4D"
+    },
+    {
+        "name": "right ptera wing",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilPteranodonB.png",
+        "buy": -1,
+        "sell": 4500,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilPteranodonB",
+        "internalID": 207,
+        "uniqueEntryID": "z45jBDDaRufwQkiEf"
+    },
+    {
+        "name": "diplo chest",
+        "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusC.png",
+        "buy": -1,
+        "sell": 4000,
+        "color1": "Brown",
+        "color2": "Brown",
+        "size": "2x2",
+        "source": [
+            "Assessing fossils"
+        ],
+        "museum": "Room 2",
+        "version": "1.0.0",
+        "interact": false,
+        "catalog": "Not for sale",
+        "filename": "FtrFossilDiplodocusC",
+        "internalID": 218,
+        "uniqueEntryID": "ZYuR9spddLgaZawiY"
+    }
+]

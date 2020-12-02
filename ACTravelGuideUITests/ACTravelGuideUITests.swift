@@ -2,7 +2,7 @@
 //  ACTravelGuideUITests.swift
 //  ACTravelGuideUITests
 //
-//  Created by Boxiang Guo on 9/7/20.
+//  Created by Boxiang Guo on 4/12/20.
 //  Copyright © 2020 Boxiang Guo. All rights reserved.
 //
 

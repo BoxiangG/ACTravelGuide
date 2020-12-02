@@ -1,0 +1,54 @@
+
+/* Class = "UINavigationItem"; title = "南北半球"; ObjectID = "6nR-bb-6cp"; */
+"6nR-bb-6cp.title" = "南北半球";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7Qp-mG-ag9"; */
+"7Qp-mG-ag9.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8qG-U6-q6D"; */
+"8qG-U6-q6D.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "90r-ru-OSL"; */
+"90r-ru-OSL.text" = "Label";
+
+/* Class = "UITableViewSection"; headerTitle = "Section-1"; ObjectID = "EbE-dR-WML"; */
+"EbE-dR-WML.headerTitle" = "Section-1";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "G5k-1h-tzz"; */
+"G5k-1h-tzz.text" = "Label";
+
+/* Class = "UITableViewSection"; footerTitle = "南北半球的选择会改变生物出现的时间。"; ObjectID = "KO7-Ag-Urd"; */
+"KO7-Ag-Urd.footerTitle" = "南北半球的选择会改变生物出现的时间。";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TRc-j7-HiT"; */
+"TRc-j7-HiT.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Fishes"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Fishes";
+
+/* Class = "UITabBarItem"; title = "Bugs"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Bugs";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cbC-r5-BJf"; */
+"cbC-r5-BJf.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hha-C7-6tR"; */
+"hha-C7-6tR.text" = "Label";
+
+/* Class = "UILabel"; text = "南半球"; ObjectID = "iRC-h8-gMn"; */
+"iRC-h8-gMn.text" = "南半球";
+
+/* Class = "UITableViewSection"; headerTitle = "设置"; ObjectID = "nVu-OS-JRw"; */
+"nVu-OS-JRw.headerTitle" = "设置";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sud-hb-a8a"; */
+"sud-hb-a8a.text" = "Label";
+
+/* Class = "UILabel"; text = "南北半球"; ObjectID = "vYb-Ti-eG6"; */
+"vYb-Ti-eG6.text" = "南北半球";
+
+/* Class = "UILabel"; text = "北半球"; ObjectID = "xFz-nE-Xo3"; */
+"xFz-nE-Xo3.text" = "北半球";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zTr-nu-tT4"; */
+"zTr-nu-tT4.text" = "Label";

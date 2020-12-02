@@ -1,0 +1,7530 @@
+[
+    {
+        "number": "5",
+        "name": "carp",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish5.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKoiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKoi.png",
+        "sell": 300,
+        "whereHow": "Pond",
+        "shadow": "Large",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "3–9",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Gray",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish5",
+        "critterpediaFilename": "FishKoi",
+        "furnitureFilename": "FtrFishKoi",
+        "internalID": 2219,
+        "uniqueEntryID": "4DwwvGDwPQvZTn9Fb"
+    },
+    {
+        "number": "9",
+        "name": "ranchu goldfish",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish85.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishRanchuCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishRanchu.png",
+        "sell": 4500,
+        "whereHow": "Pond",
+        "shadow": "Small",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "1–2",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhFeb": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhMar": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhApr": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhMay": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhJun": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhJul": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhAug": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhSep": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhOct": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhNov": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhDec": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shJan": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shFeb": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shMar": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shApr": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shMay": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shJun": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shJul": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shAug": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shSep": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shOct": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shNov": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shDec": [
+            "9 AM –\u00A04 PM"
+        ],
+        "color1": "Red",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "No lighting",
+        "iconFilename": "Fish85",
+        "critterpediaFilename": "FishRanchu",
+        "furnitureFilename": "FtrFishRanchu",
+        "internalID": 5254,
+        "uniqueEntryID": "4NE2SteWKEaBYjgWb"
+    },
+    {
+        "number": "64",
+        "name": "moray eel",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish55.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishUtsuboCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishUtsubo.png",
+        "sell": 2000,
+        "whereHow": "Sea",
+        "shadow": "Long",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "2",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Brown",
+        "color2": "Black",
+        "size": "2x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish55",
+        "critterpediaFilename": "FishUtsubo",
+        "furnitureFilename": "FtrFishUtsubo",
+        "internalID": 2271,
+        "uniqueEntryID": "4nLynLTMRtoqcCfh4"
+    },
+    {
+        "number": "66",
+        "name": "tuna",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish57.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishMaguroCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishMaguro.png",
+        "sell": 7000,
+        "whereHow": "Pier",
+        "shadow": "XX-Large",
+        "totalCatchesToUnlock": 50,
+        "spawnRates": "2",
+        "rainSnowCatchUp": true,
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Blue",
+        "color2": "Black",
+        "size": "2x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish57",
+        "critterpediaFilename": "FishMaguro",
+        "furnitureFilename": "FtrFishMaguro",
+        "internalID": 2274,
+        "uniqueEntryID": "4PnGXx9DSb866AeCM"
+    },
+    {
+        "number": "68",
+        "name": "giant trevally",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish70.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishRouninajiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishGT.png",
+        "sell": 4500,
+        "whereHow": "Pier",
+        "shadow": "X-Large",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "1",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Black",
+        "color2": "Black",
+        "size": "2x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish70",
+        "critterpediaFilename": "FishRouninaji",
+        "furnitureFilename": "FtrFishGT",
+        "internalID": 2276,
+        "uniqueEntryID": "53qtm8cMH4RfqJiAH"
+    },
+    {
+        "number": "40",
+        "name": "piranha",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish32.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishPiraniaCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishPirania.png",
+        "sell": 2500,
+        "whereHow": "River",
+        "shadow": "Small",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "1–3",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "9 AM –\u00A04 PM",
+            "9 PM – 4 AM"
+        ],
+        "nhJul": [
+            "9 AM –\u00A04 PM",
+            "9 PM – 4 AM"
+        ],
+        "nhAug": [
+            "9 AM –\u00A04 PM",
+            "9 PM – 4 AM"
+        ],
+        "nhSep": [
+            "9 AM –\u00A04 PM",
+            "9 PM – 4 AM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "9 AM –\u00A04 PM",
+            "9 PM – 4 AM"
+        ],
+        "shFeb": [
+            "9 AM –\u00A04 PM",
+            "9 PM – 4 AM"
+        ],
+        "shMar": [
+            "9 AM –\u00A04 PM",
+            "9 PM – 4 AM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "9 AM –\u00A04 PM",
+            "9 PM – 4 AM"
+        ],
+        "color1": "Green",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish32",
+        "critterpediaFilename": "FishPirania",
+        "furnitureFilename": "FtrFishPirania",
+        "internalID": 2249,
+        "uniqueEntryID": "5C59HAFxmwNSjH4Zq"
+    },
+    {
+        "number": "7",
+        "name": "goldfish",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish7.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKingyoCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKingyo.png",
+        "sell": 1300,
+        "whereHow": "Pond",
+        "shadow": "X-Small",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "1–4",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Red",
+        "color2": "Light blue",
+        "size": "1x1",
+        "lightingType": "No lighting",
+        "iconFilename": "Fish7",
+        "critterpediaFilename": "FishKingyo",
+        "furnitureFilename": "FtrFishKingyo",
+        "internalID": 329,
+        "uniqueEntryID": "5NwmwhEQxBNZCPiBR"
+    },
+    {
+        "number": "70",
+        "name": "ocean sunfish",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish60.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishManbouCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishManbou.png",
+        "sell": 4000,
+        "whereHow": "Sea",
+        "shadow": "Large w/Fin",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "1",
+        "rainSnowCatchUp": true,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "4 AM – 9 PM"
+        ],
+        "nhAug": [
+            "4 AM – 9 PM"
+        ],
+        "nhSep": [
+            "4 AM – 9 PM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "4 AM – 9 PM"
+        ],
+        "shFeb": [
+            "4 AM – 9 PM"
+        ],
+        "shMar": [
+            "4 AM – 9 PM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Blue",
+        "color2": "Orange",
+        "size": "2x2",
+        "lightingType": "No lighting",
+        "iconFilename": "Fish60",
+        "critterpediaFilename": "FishManbou",
+        "furnitureFilename": "FtrFishManbou",
+        "internalID": 2278,
+        "uniqueEntryID": "6BwK6LHbjFAKzgE82"
+    },
+    {
+        "number": "37",
+        "name": "betta",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish77.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishBetaCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishBeta.png",
+        "sell": 2500,
+        "whereHow": "River",
+        "shadow": "Small",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "1–4",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhJun": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhJul": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhAug": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhSep": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhOct": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shFeb": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shMar": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shApr": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shDec": [
+            "9 AM –\u00A04 PM"
+        ],
+        "color1": "Light blue",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish77",
+        "critterpediaFilename": "FishBeta",
+        "furnitureFilename": "FtrFishBeta",
+        "internalID": 4191,
+        "uniqueEntryID": "7QcQXzwZoNGiNA94k"
+    },
+    {
+        "number": "20",
+        "name": "bluegill",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish17.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishBlueguillCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishBlueguill.png",
+        "sell": 180,
+        "whereHow": "River",
+        "shadow": "Small",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "6–10",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhFeb": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhMar": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhApr": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhMay": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhJun": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhJul": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhAug": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhSep": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhOct": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhNov": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhDec": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shJan": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shFeb": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shMar": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shApr": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shMay": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shJun": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shJul": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shAug": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shSep": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shOct": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shNov": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shDec": [
+            "9 AM –\u00A04 PM"
+        ],
+        "color1": "Blue",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "No lighting",
+        "iconFilename": "Fish17",
+        "critterpediaFilename": "FishBlueguill",
+        "furnitureFilename": "FtrFishBlueguill",
+        "internalID": 2232,
+        "uniqueEntryID": "8ygccYFCrWf4hwYGR"
+    },
+    {
+        "number": "17",
+        "name": "loach",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish13.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishDojouCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishDojou.png",
+        "sell": 400,
+        "whereHow": "River",
+        "shadow": "Small",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "12–16",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Brown",
+        "color2": "Blue",
+        "size": "1x1",
+        "lightingType": "No lighting",
+        "iconFilename": "Fish13",
+        "critterpediaFilename": "FishDojou",
+        "furnitureFilename": "FtrFishDojou",
+        "internalID": 2228,
+        "uniqueEntryID": "95yBKrQ4tdyWj4H25"
+    },
+    {
+        "number": "54",
+        "name": "blowfish",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish73.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishFuguCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishFugu.png",
+        "sell": 5000,
+        "whereHow": "Sea",
+        "shadow": "Medium",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "5",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "9 PM –\u00A04 AM"
+        ],
+        "nhFeb": [
+            "9 PM –\u00A04 AM"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "9 PM –\u00A04 AM"
+        ],
+        "nhDec": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shJun": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shJul": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shAug": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Beige",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish73",
+        "critterpediaFilename": "FishFugu",
+        "furnitureFilename": "FtrFishFugu",
+        "internalID": 2262,
+        "uniqueEntryID": "aDsmTcByApycafxTa"
+    },
+    {
+        "number": "38",
+        "name": "neon tetra",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish31.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishNeontetoraCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishNeontetora.png",
+        "sell": 500,
+        "whereHow": "River",
+        "shadow": "X-Small",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "2–3",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhMay": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhJun": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhJul": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhAug": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhSep": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhOct": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhNov": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shFeb": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shMar": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shApr": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shMay": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shNov": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shDec": [
+            "9 AM –\u00A04 PM"
+        ],
+        "color1": "Light blue",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish31",
+        "critterpediaFilename": "FishNeontetora",
+        "furnitureFilename": "FtrFishNeontetora",
+        "internalID": 2248,
+        "uniqueEntryID": "aEyRb96wcz9m8yjFN"
+    },
+    {
+        "number": "28",
+        "name": "char",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish24.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishOoiwanaCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishOoiwana.png",
+        "sell": 3800,
+        "whereHow": "River (clifftop)",
+        "shadow": "Medium",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "1–4",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhApr": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhMay": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhJun": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shOct": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shNov": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shDec": [
+            "4 PM –\u00A09 AM"
+        ],
+        "color1": "Brown",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish24",
+        "critterpediaFilename": "FishOoiwana",
+        "furnitureFilename": "FtrFishOoiwana",
+        "internalID": 2239,
+        "uniqueEntryID": "ahbnwCqp3EZXa96KC"
+    },
+    {
+        "number": "30",
+        "name": "stringfish",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish26.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishItouCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishItou.png",
+        "sell": 15000,
+        "whereHow": "River (clifftop)",
+        "shadow": "X-Large",
+        "totalCatchesToUnlock": 100,
+        "spawnRates": "1",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhFeb": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhMar": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shJul": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shAug": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shSep": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Brown",
+        "color2": "Black",
+        "size": "2x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish26",
+        "critterpediaFilename": "FishItou",
+        "furnitureFilename": "FtrFishItou",
+        "internalID": 2241,
+        "uniqueEntryID": "APXg8kSzjcmoGGWSP"
+    },
+    {
+        "number": "23",
+        "name": "tilapia",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish76.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishThirapiaCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishThirapia.png",
+        "sell": 800,
+        "whereHow": "River",
+        "shadow": "Medium",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "7–9",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Black",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish76",
+        "critterpediaFilename": "FishThirapia",
+        "furnitureFilename": "FtrFishThirapia",
+        "internalID": 4190,
+        "uniqueEntryID": "as78rnkwY3ahrTkBY"
+    },
+    {
+        "number": "45",
+        "name": "saddled bichir",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish68.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishEndorikeriiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishEndlicheri.png",
+        "sell": 4000,
+        "whereHow": "River",
+        "shadow": "Large",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "1",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "9 PM –\u00A04 AM"
+        ],
+        "nhJul": [
+            "9 PM –\u00A04 AM"
+        ],
+        "nhAug": [
+            "9 PM –\u00A04 AM"
+        ],
+        "nhSep": [
+            "9 PM –\u00A04 AM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shFeb": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shMar": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "9 PM –\u00A04 AM"
+        ],
+        "color1": "Brown",
+        "color2": "Black",
+        "size": "2x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish68",
+        "critterpediaFilename": "FishEndorikerii",
+        "furnitureFilename": "FtrFishEndlicheri",
+        "internalID": 2254,
+        "uniqueEntryID": "bcTmnwZxrw2iJsQmf"
+    },
+    {
+        "number": "21",
+        "name": "yellow perch",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish18.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishYellowparchCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishYellowparch.png",
+        "sell": 300,
+        "whereHow": "River",
+        "shadow": "Medium",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "7–10",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Yellow",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish18",
+        "critterpediaFilename": "FishYellowparch",
+        "furnitureFilename": "FtrFishYellowparch",
+        "internalID": 2233,
+        "uniqueEntryID": "bLgE5dicZniF5zZDW"
+    },
+    {
+        "number": "79",
+        "name": "barreleye",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish84.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishDemenigisuCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishDemenigisu.png",
+        "sell": 15000,
+        "whereHow": "Sea",
+        "shadow": "Small",
+        "totalCatchesToUnlock": 100,
+        "spawnRates": "1",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "9 PM –\u00A04 AM"
+        ],
+        "nhFeb": [
+            "9 PM –\u00A04 AM"
+        ],
+        "nhMar": [
+            "9 PM –\u00A04 AM"
+        ],
+        "nhApr": [
+            "9 PM –\u00A04 AM"
+        ],
+        "nhMay": [
+            "9 PM –\u00A04 AM"
+        ],
+        "nhJun": [
+            "9 PM –\u00A04 AM"
+        ],
+        "nhJul": [
+            "9 PM –\u00A04 AM"
+        ],
+        "nhAug": [
+            "9 PM –\u00A04 AM"
+        ],
+        "nhSep": [
+            "9 PM –\u00A04 AM"
+        ],
+        "nhOct": [
+            "9 PM –\u00A04 AM"
+        ],
+        "nhNov": [
+            "9 PM –\u00A04 AM"
+        ],
+        "nhDec": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shJan": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shFeb": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shMar": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shApr": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shMay": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shJun": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shJul": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shAug": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shSep": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shOct": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shNov": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shDec": [
+            "9 PM –\u00A04 AM"
+        ],
+        "color1": "Black",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish84",
+        "critterpediaFilename": "FishDemenigisu",
+        "furnitureFilename": "FtrFishDemenigisu",
+        "internalID": 4204,
+        "uniqueEntryID": "BpqTa4zmTjv3Nm4wE"
+    },
+    {
+        "number": "69",
+        "name": "mahi-mahi",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish82.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishShiiraCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishShiira.png",
+        "sell": 6000,
+        "whereHow": "Pier",
+        "shadow": "X-Large",
+        "totalCatchesToUnlock": 50,
+        "spawnRates": "1",
+        "rainSnowCatchUp": true,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Yellow",
+        "color2": "Black",
+        "size": "2x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish82",
+        "critterpediaFilename": "FishShiira",
+        "furnitureFilename": "FtrFishShiira",
+        "internalID": 4202,
+        "uniqueEntryID": "D7gY39QDo8BBNs2Ne"
+    },
+    {
+        "number": "25",
+        "name": "pond smelt",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish21.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishWakasagiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishWakasagi.png",
+        "sell": 400,
+        "whereHow": "River",
+        "shadow": "Small",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "18–20",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Orange",
+        "color2": "Blue",
+        "size": "1x1",
+        "lightingType": "No lighting",
+        "iconFilename": "Fish21",
+        "critterpediaFilename": "FishWakasagi",
+        "furnitureFilename": "FtrFishWakasagi",
+        "internalID": 2236,
+        "uniqueEntryID": "DDb2GPEjapPmbYbWG"
+    },
+    {
+        "number": "52",
+        "name": "Napoleonfish",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish43.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishNaporeonfishCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishNaporeonfish.png",
+        "sell": 10000,
+        "whereHow": "Sea",
+        "shadow": "XX-Large",
+        "totalCatchesToUnlock": 50,
+        "spawnRates": "1",
+        "rainSnowCatchUp": true,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "4 AM – 9 PM"
+        ],
+        "nhAug": [
+            "4 AM – 9 PM"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "4 AM – 9 PM"
+        ],
+        "shFeb": [
+            "4 AM – 9 PM"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Light blue",
+        "color2": "Black",
+        "size": "2x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish43",
+        "critterpediaFilename": "FishNaporeonfish",
+        "furnitureFilename": "FtrFishNaporeonfish",
+        "internalID": 2260,
+        "uniqueEntryID": "dm4THC3AYR6CZ8bvJ"
+    },
+    {
+        "number": "1",
+        "name": "bitterling",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish0.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishTanagoCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishTanago.png",
+        "sell": 900,
+        "whereHow": "River",
+        "shadow": "X-Small",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "12–17",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Light blue",
+        "color2": "Blue",
+        "size": "1x1",
+        "lightingType": "No lighting",
+        "iconFilename": "Fish0",
+        "critterpediaFilename": "FishTanago",
+        "furnitureFilename": "FtrFishTanago",
+        "internalID": 2215,
+        "uniqueEntryID": "Drj6eLRBgg4T9KhNx"
+    },
+    {
+        "number": "26",
+        "name": "sweetfish",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish22.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishAyuCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishAyu.png",
+        "sell": 900,
+        "whereHow": "River",
+        "shadow": "Medium",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "5–10",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Green",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish22",
+        "critterpediaFilename": "FishAyu",
+        "furnitureFilename": "FtrFishAyu",
+        "internalID": 2237,
+        "uniqueEntryID": "dWgg2bjCicuiZjXW6"
+    },
+    {
+        "number": "4",
+        "name": "dace",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish3.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishUguiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishUgui.png",
+        "sell": 240,
+        "whereHow": "River",
+        "shadow": "Medium",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "3–10",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhFeb": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhMar": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhApr": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhMay": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhJun": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhJul": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhAug": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhSep": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhOct": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhNov": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhDec": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shJan": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shFeb": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shMar": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shApr": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shMay": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shJun": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shJul": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shAug": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shSep": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shOct": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shNov": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shDec": [
+            "4 PM –\u00A09 AM"
+        ],
+        "color1": "Brown",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish3",
+        "critterpediaFilename": "FishUgui",
+        "furnitureFilename": "FtrFishUgui",
+        "internalID": 2217,
+        "uniqueEntryID": "dWmXFdnjByWT5nEok"
+    },
+    {
+        "number": "74",
+        "name": "great white shark",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish62.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishSameCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishSame.png",
+        "sell": 15000,
+        "whereHow": "Sea",
+        "shadow": "Large w/Fin",
+        "totalCatchesToUnlock": 50,
+        "spawnRates": "2",
+        "rainSnowCatchUp": true,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhJul": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhAug": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhSep": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shFeb": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shMar": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "4 PM –\u00A09 AM"
+        ],
+        "color1": "Blue",
+        "color2": "Blue",
+        "size": "3x2",
+        "lightingType": "No lighting",
+        "iconFilename": "Fish62",
+        "critterpediaFilename": "FishSame",
+        "furnitureFilename": "FtrFishSame",
+        "internalID": 2280,
+        "uniqueEntryID": "EPypAeJGuTDGFJRnx"
+    },
+    {
+        "number": "41",
+        "name": "arowana",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish33.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishArowanaCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishArowana.png",
+        "sell": 10000,
+        "whereHow": "River",
+        "shadow": "Large",
+        "totalCatchesToUnlock": 50,
+        "spawnRates": "1–2",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhJul": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhAug": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhSep": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shFeb": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shMar": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "4 PM –\u00A09 AM"
+        ],
+        "color1": "Yellow",
+        "color2": "Black",
+        "size": "2x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish33",
+        "critterpediaFilename": "FishArowana",
+        "furnitureFilename": "FtrFishArowana",
+        "internalID": 2250,
+        "uniqueEntryID": "F68AvCaqddBJL7ZSN"
+    },
+    {
+        "number": "76",
+        "name": "suckerfish",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish83.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKobanzameCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKobanzame.png",
+        "sell": 1500,
+        "whereHow": "Sea",
+        "shadow": "Medium w/Fin",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "2",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Black",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish83",
+        "critterpediaFilename": "FishKobanzame",
+        "furnitureFilename": "FtrFishKobanzame",
+        "internalID": 4203,
+        "uniqueEntryID": "FPpwmMDn9rYAJazyS"
+    },
+    {
+        "number": "42",
+        "name": "dorado",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish34.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishDoladoCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishDolado.png",
+        "sell": 15000,
+        "whereHow": "River",
+        "shadow": "X-Large",
+        "totalCatchesToUnlock": 100,
+        "spawnRates": "1–2",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "4 AM – 9 PM"
+        ],
+        "nhJul": [
+            "4 AM – 9 PM"
+        ],
+        "nhAug": [
+            "4 AM – 9 PM"
+        ],
+        "nhSep": [
+            "4 AM – 9 PM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "4 AM – 9 PM"
+        ],
+        "shFeb": [
+            "4 AM – 9 PM"
+        ],
+        "shMar": [
+            "4 AM – 9 PM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "4 AM – 9 PM"
+        ],
+        "color1": "Yellow",
+        "color2": "Black",
+        "size": "2x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish34",
+        "critterpediaFilename": "FishDolado",
+        "furnitureFilename": "FtrFishDolado",
+        "internalID": 2251,
+        "uniqueEntryID": "G7ZwD67cRMHBwTSKH"
+    },
+    {
+        "number": "71",
+        "name": "ray",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish59.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishEiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishEi.png",
+        "sell": 3000,
+        "whereHow": "Sea",
+        "shadow": "X-Large",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "2",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "4 AM – 9 PM"
+        ],
+        "nhSep": [
+            "4 AM – 9 PM"
+        ],
+        "nhOct": [
+            "4 AM – 9 PM"
+        ],
+        "nhNov": [
+            "4 AM – 9 PM"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "4 AM – 9 PM"
+        ],
+        "shMar": [
+            "4 AM – 9 PM"
+        ],
+        "shApr": [
+            "4 AM – 9 PM"
+        ],
+        "shMay": [
+            "4 AM – 9 PM"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Brown",
+        "color2": "Black",
+        "size": "2x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish59",
+        "critterpediaFilename": "FishEi",
+        "furnitureFilename": "FtrFishEi",
+        "internalID": 2277,
+        "uniqueEntryID": "gP5F7wWFvFqiZzuGw"
+    },
+    {
+        "number": "73",
+        "name": "hammerhead shark",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish61.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishShumokuzameCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishShumokuzame.png",
+        "sell": 8000,
+        "whereHow": "Sea",
+        "shadow": "Large w/Fin",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "1",
+        "rainSnowCatchUp": true,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhJul": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhAug": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhSep": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shFeb": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shMar": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "4 PM –\u00A09 AM"
+        ],
+        "color1": "Black",
+        "color2": "Black",
+        "size": "2x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish61",
+        "critterpediaFilename": "FishShumokuzame",
+        "furnitureFilename": "FtrFishShumokuzame",
+        "internalID": 2279,
+        "uniqueEntryID": "guHT5g6H7tJEyqYzf"
+    },
+    {
+        "number": "53",
+        "name": "zebra turkeyfish",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish44.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishMinokasagoCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishMinokasago.png",
+        "sell": 500,
+        "whereHow": "Sea",
+        "shadow": "Medium",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "6–8",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Red",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish44",
+        "critterpediaFilename": "FishMinokasago",
+        "furnitureFilename": "FtrFishMinokasago",
+        "internalID": 2261,
+        "uniqueEntryID": "h7fa7Fh3Ay7vAxgE2"
+    },
+    {
+        "number": "31",
+        "name": "salmon",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish27.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishSakeCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishSake.png",
+        "sell": 700,
+        "whereHow": "River (mouth)",
+        "shadow": "Large",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "20",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Brown",
+        "color2": "Black",
+        "size": "2x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish27",
+        "critterpediaFilename": "FishSake",
+        "furnitureFilename": "FtrFishSake",
+        "internalID": 2242,
+        "uniqueEntryID": "iwXhnZcSezNxqdNQf"
+    },
+    {
+        "number": "60",
+        "name": "red snapper",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish49.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishTaiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishTai.png",
+        "sell": 3000,
+        "whereHow": "Sea",
+        "shadow": "Large",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "5–7",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Red",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish49",
+        "critterpediaFilename": "FishTai",
+        "furnitureFilename": "FtrFishTai",
+        "internalID": 2267,
+        "uniqueEntryID": "iY4zfgojAfLskW4CQ"
+    },
+    {
+        "number": "12",
+        "name": "soft-shelled turtle",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish65.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishSupponCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishSuppon.png",
+        "sell": 3750,
+        "whereHow": "River",
+        "shadow": "Large",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "4",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhSep": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shMar": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Green",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "No lighting",
+        "iconFilename": "Fish65",
+        "critterpediaFilename": "FishSuppon",
+        "furnitureFilename": "FtrFishSuppon",
+        "internalID": 2224,
+        "uniqueEntryID": "izuY2f4GtEGT3BtuR"
+    },
+    {
+        "number": "67",
+        "name": "blue marlin",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish58.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKajikiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKajiki.png",
+        "sell": 10000,
+        "whereHow": "Pier",
+        "shadow": "XX-Large",
+        "totalCatchesToUnlock": 50,
+        "spawnRates": "1–2",
+        "rainSnowCatchUp": true,
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Blue",
+        "color2": "Black",
+        "size": "2x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish58",
+        "critterpediaFilename": "FishKajiki",
+        "furnitureFilename": "FtrFishKajiki",
+        "internalID": 2275,
+        "uniqueEntryID": "jhtsYRHydAcZnd6bJ"
+    },
+    {
+        "number": "55",
+        "name": "puffer fish",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish45.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishHarisenbonCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishHarisenbon.png",
+        "sell": 250,
+        "whereHow": "Sea",
+        "shadow": "Medium",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "7–8",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Beige",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish45",
+        "critterpediaFilename": "FishHarisenbon",
+        "furnitureFilename": "FtrFishHarisenbon",
+        "internalID": 2263,
+        "uniqueEntryID": "jNkgaybfSsv8MkaQ2"
+    },
+    {
+        "number": "47",
+        "name": "sea butterfly",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish37.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKurioneCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKurione.png",
+        "sell": 1000,
+        "whereHow": "Sea",
+        "shadow": "X-Small",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "10–11",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "White",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish37",
+        "critterpediaFilename": "FishKurione",
+        "furnitureFilename": "FtrFishKurione",
+        "internalID": 2255,
+        "uniqueEntryID": "kd5beizyQGeyjeM79"
+    },
+    {
+        "number": "6",
+        "name": "koi",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish6.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishNishikigoiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishNishikigoi.png",
+        "sell": 4000,
+        "whereHow": "Pond",
+        "shadow": "Large",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "1–4",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhFeb": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhMar": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhApr": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhMay": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhJun": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhJul": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhAug": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhSep": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhOct": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhNov": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhDec": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shJan": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shFeb": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shMar": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shApr": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shMay": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shJun": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shJul": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shAug": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shSep": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shOct": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shNov": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shDec": [
+            "4 PM –\u00A09 AM"
+        ],
+        "color1": "Red",
+        "color2": "White",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish6",
+        "critterpediaFilename": "FishNishikigoi",
+        "furnitureFilename": "FtrFishNishikigoi",
+        "internalID": 2220,
+        "uniqueEntryID": "kNwjLeqjg8bFevfiG"
+    },
+    {
+        "number": "19",
+        "name": "giant snakehead",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish16.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishRaigyoCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishRaigyo.png",
+        "sell": 5500,
+        "whereHow": "Pond",
+        "shadow": "Large",
+        "totalCatchesToUnlock": 50,
+        "spawnRates": "2",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhJul": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhAug": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shFeb": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "9 AM –\u00A04 PM"
+        ],
+        "color1": "Black",
+        "color2": "Black",
+        "size": "2x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish16",
+        "critterpediaFilename": "FishRaigyo",
+        "furnitureFilename": "FtrFishRaigyo",
+        "internalID": 2231,
+        "uniqueEntryID": "KyWQRd8W2FePM42wB"
+    },
+    {
+        "number": "57",
+        "name": "horse mackerel",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish46.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishAjiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishAji.png",
+        "sell": 150,
+        "whereHow": "Sea",
+        "shadow": "Small",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "14–21",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Blue",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish46",
+        "critterpediaFilename": "FishAji",
+        "furnitureFilename": "FtrFishAji",
+        "internalID": 2264,
+        "uniqueEntryID": "L24RYPaEcm9ZXkTui"
+    },
+    {
+        "number": "49",
+        "name": "clown fish",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish40.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKumanomiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKumanomi.png",
+        "sell": 650,
+        "whereHow": "Sea",
+        "shadow": "X-Small",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "5–6",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Orange",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish40",
+        "critterpediaFilename": "FishKumanomi",
+        "furnitureFilename": "FtrFishKumanomi",
+        "internalID": 2257,
+        "uniqueEntryID": "L9qxZaMoBhwxvpMyh"
+    },
+    {
+        "number": "15",
+        "name": "frog",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish11.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKaeruCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKaeru.png",
+        "sell": 120,
+        "whereHow": "Pond",
+        "shadow": "Small",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "7–9",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Green",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish11",
+        "critterpediaFilename": "FishKaeru",
+        "furnitureFilename": "FtrFishKaeru",
+        "internalID": 2226,
+        "uniqueEntryID": "LcQLs85qPPdLajLje"
+    },
+    {
+        "number": "59",
+        "name": "sea bass",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish48.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishSuzukiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishSuzuki.png",
+        "sell": 400,
+        "whereHow": "Sea",
+        "shadow": "X-Large",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "11–18",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Gray",
+        "color2": "Black",
+        "size": "2x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish48",
+        "critterpediaFilename": "FishSuzuki",
+        "furnitureFilename": "FtrFishSuzuki",
+        "internalID": 2266,
+        "uniqueEntryID": "LkA5hzibm6uiHDB9g"
+    },
+    {
+        "number": "56",
+        "name": "anchovy",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish81.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishAntyobiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishAntyobi.png",
+        "sell": 200,
+        "whereHow": "Sea",
+        "shadow": "Small",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "2–5",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "4 AM – 9 PM"
+        ],
+        "nhFeb": [
+            "4 AM – 9 PM"
+        ],
+        "nhMar": [
+            "4 AM – 9 PM"
+        ],
+        "nhApr": [
+            "4 AM – 9 PM"
+        ],
+        "nhMay": [
+            "4 AM – 9 PM"
+        ],
+        "nhJun": [
+            "4 AM – 9 PM"
+        ],
+        "nhJul": [
+            "4 AM – 9 PM"
+        ],
+        "nhAug": [
+            "4 AM – 9 PM"
+        ],
+        "nhSep": [
+            "4 AM – 9 PM"
+        ],
+        "nhOct": [
+            "4 AM – 9 PM"
+        ],
+        "nhNov": [
+            "4 AM – 9 PM"
+        ],
+        "nhDec": [
+            "4 AM – 9 PM"
+        ],
+        "shJan": [
+            "4 AM – 9 PM"
+        ],
+        "shFeb": [
+            "4 AM – 9 PM"
+        ],
+        "shMar": [
+            "4 AM – 9 PM"
+        ],
+        "shApr": [
+            "4 AM – 9 PM"
+        ],
+        "shMay": [
+            "4 AM – 9 PM"
+        ],
+        "shJun": [
+            "4 AM – 9 PM"
+        ],
+        "shJul": [
+            "4 AM – 9 PM"
+        ],
+        "shAug": [
+            "4 AM – 9 PM"
+        ],
+        "shSep": [
+            "4 AM – 9 PM"
+        ],
+        "shOct": [
+            "4 AM – 9 PM"
+        ],
+        "shNov": [
+            "4 AM – 9 PM"
+        ],
+        "shDec": [
+            "4 AM – 9 PM"
+        ],
+        "color1": "Blue",
+        "color2": "Red",
+        "size": "1x1",
+        "lightingType": "No lighting",
+        "iconFilename": "Fish81",
+        "critterpediaFilename": "FishAntyobi",
+        "furnitureFilename": "FtrFishAntyobi",
+        "internalID": 4201,
+        "uniqueEntryID": "LzuWkSQP55uEpRCP5"
+    },
+    {
+        "number": "44",
+        "name": "arapaima",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish36.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishPirarukuCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishPiraruku.png",
+        "sell": 10000,
+        "whereHow": "River",
+        "shadow": "XX-Large",
+        "totalCatchesToUnlock": 50,
+        "spawnRates": "1",
+        "rainSnowCatchUp": true,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhJul": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhAug": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhSep": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shFeb": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shMar": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "4 PM –\u00A09 AM"
+        ],
+        "color1": "Black",
+        "color2": "Blue",
+        "size": "3x2",
+        "lightingType": "No lighting",
+        "iconFilename": "Fish36",
+        "critterpediaFilename": "FishPiraruku",
+        "furnitureFilename": "FtrFishPiraruku",
+        "internalID": 2253,
+        "uniqueEntryID": "mZy4BES54bqwi97br"
+    },
+    {
+        "number": "18",
+        "name": "catfish",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish14.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishNamazuCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishNamazu.png",
+        "sell": 800,
+        "whereHow": "Pond",
+        "shadow": "Large",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "6–8",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhJun": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhJul": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhAug": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhSep": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhOct": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shFeb": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shMar": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shApr": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shDec": [
+            "4 PM –\u00A09 AM"
+        ],
+        "color1": "Black",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish14",
+        "critterpediaFilename": "FishNamazu",
+        "furnitureFilename": "FtrFishNamazu",
+        "internalID": 2229,
+        "uniqueEntryID": "nbPtvwf7HCQxA9Nc4"
+    },
+    {
+        "number": "80",
+        "name": "coelacanth",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish63.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishSirakansuCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishSirakansu.png",
+        "sell": 15000,
+        "whereHow": "Sea (rainy days)",
+        "shadow": "XX-Large",
+        "totalCatchesToUnlock": 100,
+        "spawnRates": "1–2",
+        "rainSnowCatchUp": true,
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Black",
+        "color2": "Black",
+        "size": "2x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish63",
+        "critterpediaFilename": "FishSirakansu",
+        "furnitureFilename": "FtrFishSirakansu",
+        "internalID": 2284,
+        "uniqueEntryID": "NjMZQ6Xi9NswEXnHH"
+    },
+    {
+        "number": "61",
+        "name": "dab",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish50.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKareiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKarei.png",
+        "sell": 300,
+        "whereHow": "Sea",
+        "shadow": "Medium",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "11–14",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Brown",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish50",
+        "critterpediaFilename": "FishKarei",
+        "furnitureFilename": "FtrFishKarei",
+        "internalID": 2268,
+        "uniqueEntryID": "noA2Kfp8TaFgaLs5n"
+    },
+    {
+        "number": "2",
+        "name": "pale chub",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish1.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishOikawaCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishOikawa.png",
+        "sell": 200,
+        "whereHow": "River",
+        "shadow": "X-Small",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "6–9",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhFeb": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhMar": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhApr": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhMay": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhJun": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhJul": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhAug": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhSep": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhOct": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhNov": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhDec": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shJan": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shFeb": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shMar": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shApr": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shMay": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shJun": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shJul": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shAug": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shSep": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shOct": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shNov": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shDec": [
+            "9 AM –\u00A04 PM"
+        ],
+        "color1": "Blue",
+        "color2": "Blue",
+        "size": "1x1",
+        "lightingType": "No lighting",
+        "iconFilename": "Fish1",
+        "critterpediaFilename": "FishOikawa",
+        "furnitureFilename": "FtrFishOikawa",
+        "internalID": 2216,
+        "uniqueEntryID": "pCn9TLap3rWiLYfnF"
+    },
+    {
+        "number": "3",
+        "name": "crucian carp",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish2.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishFunaCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishFuna.png",
+        "sell": 160,
+        "whereHow": "River",
+        "shadow": "Small",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "4–12",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Brown",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish2",
+        "critterpediaFilename": "FishFuna",
+        "furnitureFilename": "FtrFishFuna",
+        "internalID": 328,
+        "uniqueEntryID": "Pdw7vmJz9PRM4ggbf"
+    },
+    {
+        "number": "32",
+        "name": "king salmon",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish28.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKingsalmonCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKingsalmon.png",
+        "sell": 1800,
+        "whereHow": "River (mouth)",
+        "shadow": "X-Large",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "5",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Gray",
+        "color2": "Black",
+        "size": "2x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish28",
+        "critterpediaFilename": "FishKingsalmon",
+        "furnitureFilename": "FtrFishKingsalmon",
+        "internalID": 2243,
+        "uniqueEntryID": "Pf5cXKo8pzdB45rAA"
+    },
+    {
+        "number": "35",
+        "name": "nibble fish",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish67.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishDokutaafishCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishDoctor.png",
+        "sell": 1500,
+        "whereHow": "River",
+        "shadow": "X-Small",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "2",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhJun": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhJul": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhAug": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhSep": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shFeb": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shMar": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shDec": [
+            "9 AM –\u00A04 PM"
+        ],
+        "color1": "Brown",
+        "color2": "Blue",
+        "size": "1x1",
+        "lightingType": "No lighting",
+        "iconFilename": "Fish67",
+        "critterpediaFilename": "FishDokutaafish",
+        "furnitureFilename": "FtrFishDoctor",
+        "internalID": 2246,
+        "uniqueEntryID": "pkPKYsMiXsTWNz4L4"
+    },
+    {
+        "number": "48",
+        "name": "sea horse",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish39.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishTatsunootoshigoCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishTatsunootoshigo.png",
+        "sell": 1100,
+        "whereHow": "Sea",
+        "shadow": "X-Small",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "5–7",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Orange",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish39",
+        "critterpediaFilename": "FishTatsunootoshigo",
+        "furnitureFilename": "FtrFishTatsunootoshigo",
+        "internalID": 2256,
+        "uniqueEntryID": "Pw5oZqC29NWEGRfyS"
+    },
+    {
+        "number": "78",
+        "name": "oarfish",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish69.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishRyuuguunotukaiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishRyugu.png",
+        "sell": 9000,
+        "whereHow": "Sea",
+        "shadow": "XX-Large",
+        "totalCatchesToUnlock": 50,
+        "spawnRates": "1",
+        "rainSnowCatchUp": true,
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Red",
+        "color2": "Blue",
+        "size": "3x2",
+        "lightingType": "No lighting",
+        "iconFilename": "Fish69",
+        "critterpediaFilename": "FishRyuuguunotukai",
+        "furnitureFilename": "FtrFishRyugu",
+        "internalID": 2283,
+        "uniqueEntryID": "qgvEPGk759xaBqwXP"
+    },
+    {
+        "number": "63",
+        "name": "squid",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish52.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishIkaCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishIka.png",
+        "sell": 500,
+        "whereHow": "Sea",
+        "shadow": "Medium",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "7–10",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Beige",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish52",
+        "critterpediaFilename": "FishIka",
+        "furnitureFilename": "FtrFishIka",
+        "internalID": 2270,
+        "uniqueEntryID": "qxHJ6BGgyQujkC28w"
+    },
+    {
+        "number": "75",
+        "name": "whale shark",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish72.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishJinbeezameCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishJinbee.png",
+        "sell": 13000,
+        "whereHow": "Sea",
+        "shadow": "Large w/Fin",
+        "totalCatchesToUnlock": 50,
+        "spawnRates": "1",
+        "rainSnowCatchUp": true,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Black",
+        "color2": "Blue",
+        "size": "3x2",
+        "lightingType": "No lighting",
+        "iconFilename": "Fish72",
+        "critterpediaFilename": "FishJinbeezame",
+        "furnitureFilename": "FtrFishJinbee",
+        "internalID": 2282,
+        "uniqueEntryID": "r3RAtJsXENwnFvQh7"
+    },
+    {
+        "number": "14",
+        "name": "tadpole",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish64.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishOtamajakusiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishOtama.png",
+        "sell": 100,
+        "whereHow": "Pond",
+        "shadow": "X-Small",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "5–6",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Black",
+        "color2": "Blue",
+        "size": "1x1",
+        "lightingType": "No lighting",
+        "iconFilename": "Fish64",
+        "critterpediaFilename": "FishOtamajakusi",
+        "furnitureFilename": "FtrFishOtama",
+        "internalID": 2225,
+        "uniqueEntryID": "rb8MsjWopKYWuQK8s"
+    },
+    {
+        "number": "8",
+        "name": "pop-eyed goldfish",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish8.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishDemekinCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishDemekin.png",
+        "sell": 1300,
+        "whereHow": "Pond",
+        "shadow": "X-Small",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "1–2",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhFeb": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhMar": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhApr": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhMay": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhJun": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhJul": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhAug": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhSep": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhOct": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhNov": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhDec": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shJan": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shFeb": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shMar": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shApr": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shMay": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shJun": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shJul": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shAug": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shSep": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shOct": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shNov": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shDec": [
+            "9 AM –\u00A04 PM"
+        ],
+        "color1": "Black",
+        "color2": "Light blue",
+        "size": "1x1",
+        "lightingType": "No lighting",
+        "iconFilename": "Fish8",
+        "critterpediaFilename": "FishDemekin",
+        "furnitureFilename": "FtrFishDemekin",
+        "internalID": 2221,
+        "uniqueEntryID": "RvqzuA438gGqRJ7NG"
+    },
+    {
+        "number": "33",
+        "name": "mitten crab",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish66.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishSyanhaiganiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishShanghai.png",
+        "sell": 2000,
+        "whereHow": "River",
+        "shadow": "Small",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "3–5",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhOct": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhNov": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shApr": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shMay": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Black",
+        "color2": "Blue",
+        "size": "1x1",
+        "lightingType": "No lighting",
+        "iconFilename": "Fish66",
+        "critterpediaFilename": "FishSyanhaigani",
+        "furnitureFilename": "FtrFishShanghai",
+        "internalID": 2244,
+        "uniqueEntryID": "s2jqSYbMWBX6qCLDm"
+    },
+    {
+        "number": "51",
+        "name": "butterfly fish",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish42.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishChouchouuoCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishChouchouuo.png",
+        "sell": 1000,
+        "whereHow": "Sea",
+        "shadow": "Small",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "4–5",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Yellow",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish42",
+        "critterpediaFilename": "FishChouchouuo",
+        "furnitureFilename": "FtrFishChouchouuo",
+        "internalID": 2259,
+        "uniqueEntryID": "S4rkio2M3WB5cyy8Y"
+    },
+    {
+        "number": "50",
+        "name": "surgeonfish",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish41.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishNanyouhagiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishNanyouhagi.png",
+        "sell": 1000,
+        "whereHow": "Sea",
+        "shadow": "Small",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "2",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Blue",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish41",
+        "critterpediaFilename": "FishNanyouhagi",
+        "furnitureFilename": "FtrFishNanyouhagi",
+        "internalID": 2258,
+        "uniqueEntryID": "s7iioofF5C7PzCZyF"
+    },
+    {
+        "number": "16",
+        "name": "freshwater goby",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish12.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishDonkoCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishDonko.png",
+        "sell": 400,
+        "whereHow": "River",
+        "shadow": "Small",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "2–5",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhFeb": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhMar": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhApr": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhMay": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhJun": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhJul": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhAug": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhSep": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhOct": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhNov": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhDec": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shJan": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shFeb": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shMar": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shApr": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shMay": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shJun": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shJul": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shAug": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shSep": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shOct": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shNov": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shDec": [
+            "4 PM –\u00A09 AM"
+        ],
+        "color1": "Brown",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish12",
+        "critterpediaFilename": "FishDonko",
+        "furnitureFilename": "FtrFishDonko",
+        "internalID": 2227,
+        "uniqueEntryID": "SfXYNdtaid6hdQhvZ"
+    },
+    {
+        "number": "13",
+        "name": "snapping turtle",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish78.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKamitsukigameCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKamitukigame.png",
+        "sell": 5000,
+        "whereHow": "River",
+        "shadow": "Large",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "2–3",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "9 PM –\u00A04 AM"
+        ],
+        "nhMay": [
+            "9 PM –\u00A04 AM"
+        ],
+        "nhJun": [
+            "9 PM –\u00A04 AM"
+        ],
+        "nhJul": [
+            "9 PM –\u00A04 AM"
+        ],
+        "nhAug": [
+            "9 PM –\u00A04 AM"
+        ],
+        "nhSep": [
+            "9 PM –\u00A04 AM"
+        ],
+        "nhOct": [
+            "9 PM –\u00A04 AM"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shFeb": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shMar": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shApr": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shNov": [
+            "9 PM –\u00A04 AM"
+        ],
+        "shDec": [
+            "9 PM –\u00A04 AM"
+        ],
+        "color1": "Brown",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "No lighting",
+        "iconFilename": "Fish78",
+        "critterpediaFilename": "FishKamitsukigame",
+        "furnitureFilename": "FtrFishKamitukigame",
+        "internalID": 4192,
+        "uniqueEntryID": "SJa3LLde3Yuz4H3D7"
+    },
+    {
+        "number": "27",
+        "name": "cherry salmon",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish23.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishYamameCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishYamame.png",
+        "sell": 1000,
+        "whereHow": "River (clifftop)",
+        "shadow": "Medium",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "3–9",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhApr": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhMay": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhJun": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shOct": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shNov": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shDec": [
+            "4 PM –\u00A09 AM"
+        ],
+        "color1": "Brown",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish23",
+        "critterpediaFilename": "FishYamame",
+        "furnitureFilename": "FtrFishYamame",
+        "internalID": 2238,
+        "uniqueEntryID": "sJyBbeLbpzn7LyzFr"
+    },
+    {
+        "number": "65",
+        "name": "ribbon eel",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish71.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishHanahigeutuboCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishHanahige.png",
+        "sell": 600,
+        "whereHow": "Sea",
+        "shadow": "Long",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "2",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Blue",
+        "color2": "Black",
+        "size": "2x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish71",
+        "critterpediaFilename": "FishHanahigeutubo",
+        "furnitureFilename": "FtrFishHanahige",
+        "internalID": 2272,
+        "uniqueEntryID": "T9zeSBHpB5qyAZTxu"
+    },
+    {
+        "number": "72",
+        "name": "saw shark",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish74.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishNokogirizameCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishNokogiri.png",
+        "sell": 12000,
+        "whereHow": "Sea",
+        "shadow": "Large w/Fin",
+        "totalCatchesToUnlock": 50,
+        "spawnRates": "1",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhJul": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhAug": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhSep": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shFeb": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shMar": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "4 PM –\u00A09 AM"
+        ],
+        "color1": "Brown",
+        "color2": "Black",
+        "size": "2x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish74",
+        "critterpediaFilename": "FishNokogirizame",
+        "furnitureFilename": "FtrFishNokogiri",
+        "internalID": 2281,
+        "uniqueEntryID": "tsrT7a8cbtwZrmJTz"
+    },
+    {
+        "number": "62",
+        "name": "olive flounder",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish51.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishHirameCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishHirame.png",
+        "sell": 800,
+        "whereHow": "Sea",
+        "shadow": "X-Large",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "4–6",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Beige",
+        "color2": "Black",
+        "size": "2x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish51",
+        "critterpediaFilename": "FishHirame",
+        "furnitureFilename": "FtrFishHirame",
+        "internalID": 2269,
+        "uniqueEntryID": "TXSteKMHuQ9ZfqPXm"
+    },
+    {
+        "number": "77",
+        "name": "football fish",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish56.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishChouchinankouCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishChouchinankou.png",
+        "sell": 2500,
+        "whereHow": "Sea",
+        "shadow": "Large",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "6",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhFeb": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhMar": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhDec": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shJun": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shJul": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shAug": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shSep": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Black",
+        "color2": "Black",
+        "size": "2x1",
+        "lightingType": "Emission",
+        "iconFilename": "Fish56",
+        "critterpediaFilename": "FishChouchinankou",
+        "furnitureFilename": "FtrFishChouchinankou",
+        "internalID": 2273,
+        "uniqueEntryID": "vQHfve6DygtcYqwdi"
+    },
+    {
+        "number": "11",
+        "name": "crawfish",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish10.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishZariganiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishZarigani.png",
+        "sell": 200,
+        "whereHow": "Pond",
+        "shadow": "Small",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "4–12",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Red",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish10",
+        "critterpediaFilename": "FishZarigani",
+        "furnitureFilename": "FtrFishZarigani",
+        "internalID": 2223,
+        "uniqueEntryID": "W7TrwpycmfgniZipi"
+    },
+    {
+        "number": "22",
+        "name": "black bass",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish19.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishBlackbassCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishBlackbass.png",
+        "sell": 400,
+        "whereHow": "River",
+        "shadow": "Large",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "4–12",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Green",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish19",
+        "critterpediaFilename": "FishBlackbass",
+        "furnitureFilename": "FtrFishBlackbass",
+        "internalID": 2234,
+        "uniqueEntryID": "wAZvfTca7GyaTtLcQ"
+    },
+    {
+        "number": "34",
+        "name": "guppy",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish29.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishGuppiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishGuppi.png",
+        "sell": 1300,
+        "whereHow": "River",
+        "shadow": "X-Small",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "2–3",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhMay": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhJun": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhJul": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhAug": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhSep": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhOct": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhNov": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shFeb": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shMar": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shApr": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shMay": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shNov": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shDec": [
+            "9 AM –\u00A04 PM"
+        ],
+        "color1": "Blue",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish29",
+        "critterpediaFilename": "FishGuppi",
+        "furnitureFilename": "FtrFishGuppi",
+        "internalID": 2245,
+        "uniqueEntryID": "WtdZnARNxnWRobej2"
+    },
+    {
+        "number": "29",
+        "name": "golden trout",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish79.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishGoldenTorautoCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishGoldenTorauto.png",
+        "sell": 15000,
+        "whereHow": "River (clifftop)",
+        "shadow": "Medium",
+        "totalCatchesToUnlock": 100,
+        "spawnRates": "1",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhApr": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhMay": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhOct": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhNov": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shApr": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shMay": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shOct": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shNov": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Brown",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish79",
+        "critterpediaFilename": "FishGoldenTorauto",
+        "furnitureFilename": "FtrFishGoldenTorauto",
+        "internalID": 4193,
+        "uniqueEntryID": "wwGzR7FzWNJ7cDz9X"
+    },
+    {
+        "number": "58",
+        "name": "barred knifejaw",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish47.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishIshidaiCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishIshidai.png",
+        "sell": 5000,
+        "whereHow": "Sea",
+        "shadow": "Medium",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "3–5",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "White",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish47",
+        "critterpediaFilename": "FishIshidai",
+        "furnitureFilename": "FtrFishIshidai",
+        "internalID": 2265,
+        "uniqueEntryID": "X3R9SFSAaDzBF4fE3"
+    },
+    {
+        "number": "43",
+        "name": "gar",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish35.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishGaCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishGa.png",
+        "sell": 6000,
+        "whereHow": "Pond",
+        "shadow": "X-Large",
+        "totalCatchesToUnlock": 50,
+        "spawnRates": "1–2",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhJul": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhAug": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhSep": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shFeb": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shMar": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "4 PM –\u00A09 AM"
+        ],
+        "color1": "Brown",
+        "color2": "Black",
+        "size": "2x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish35",
+        "critterpediaFilename": "FishGa",
+        "furnitureFilename": "FtrFishGa",
+        "internalID": 2252,
+        "uniqueEntryID": "x5yAYQgMJW9Kf7WyM"
+    },
+    {
+        "number": "46",
+        "name": "sturgeon",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish75.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishTyouzameCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishTyouzame.png",
+        "sell": 10000,
+        "whereHow": "River (mouth)",
+        "shadow": "XX-Large",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "1–4",
+        "rainSnowCatchUp": true,
+        "nhJan": [
+            "All day"
+        ],
+        "nhFeb": [
+            "All day"
+        ],
+        "nhMar": [
+            "All day"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "All day"
+        ],
+        "shAug": [
+            "All day"
+        ],
+        "shSep": [
+            "All day"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Black",
+        "color2": "Black",
+        "size": "2x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish75",
+        "critterpediaFilename": "FishTyouzame",
+        "furnitureFilename": "FtrFishTyouzame",
+        "internalID": 4189,
+        "uniqueEntryID": "XabKYtzYDNSNrFvpw"
+    },
+    {
+        "number": "39",
+        "name": "rainbowfish",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish80.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishRainbowfishCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishRainbowfish.png",
+        "sell": 800,
+        "whereHow": "River",
+        "shadow": "X-Small",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "2–3",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhJun": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhJul": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhAug": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhSep": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhOct": [
+            "9 AM –\u00A04 PM"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shFeb": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shMar": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shApr": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "9 AM –\u00A04 PM"
+        ],
+        "shDec": [
+            "9 AM –\u00A04 PM"
+        ],
+        "color1": "Orange",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish80",
+        "critterpediaFilename": "FishRainbowfish",
+        "furnitureFilename": "FtrFishRainbowfish",
+        "internalID": 4194,
+        "uniqueEntryID": "XJfkdS4C2MPYiscST"
+    },
+    {
+        "number": "36",
+        "name": "angelfish",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish30.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishAngelfishCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishAngelfish.png",
+        "sell": 3000,
+        "whereHow": "River",
+        "shadow": "Small",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "2–5",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhJun": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhJul": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhAug": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhSep": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhOct": [
+            "4 PM –\u00A09 AM"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shFeb": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shMar": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shApr": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "4 PM –\u00A09 AM"
+        ],
+        "shDec": [
+            "4 PM –\u00A09 AM"
+        ],
+        "color1": "Yellow",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish30",
+        "critterpediaFilename": "FishAngelfish",
+        "furnitureFilename": "FtrFishAngelfish",
+        "internalID": 2247,
+        "uniqueEntryID": "XTCFCk2SiuY5YXLZ7"
+    },
+    {
+        "number": "24",
+        "name": "pike",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish20.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishPaikuCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishPaiku.png",
+        "sell": 1800,
+        "whereHow": "River",
+        "shadow": "X-Large",
+        "totalCatchesToUnlock": 20,
+        "spawnRates": "1–2",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "NA"
+        ],
+        "nhMay": [
+            "NA"
+        ],
+        "nhJun": [
+            "NA"
+        ],
+        "nhJul": [
+            "NA"
+        ],
+        "nhAug": [
+            "NA"
+        ],
+        "nhSep": [
+            "All day"
+        ],
+        "nhOct": [
+            "All day"
+        ],
+        "nhNov": [
+            "All day"
+        ],
+        "nhDec": [
+            "All day"
+        ],
+        "shJan": [
+            "NA"
+        ],
+        "shFeb": [
+            "NA"
+        ],
+        "shMar": [
+            "All day"
+        ],
+        "shApr": [
+            "All day"
+        ],
+        "shMay": [
+            "All day"
+        ],
+        "shJun": [
+            "All day"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "NA"
+        ],
+        "shNov": [
+            "NA"
+        ],
+        "shDec": [
+            "NA"
+        ],
+        "color1": "Green",
+        "color2": "Black",
+        "size": "2x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish20",
+        "critterpediaFilename": "FishPaiku",
+        "furnitureFilename": "FtrFishPaiku",
+        "internalID": 2235,
+        "uniqueEntryID": "XxrB6iKQPhBkYKaXD"
+    },
+    {
+        "number": "10",
+        "name": "killifish",
+        "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish9.png",
+        "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishMedakaCropped.png",
+        "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishMedaka.png",
+        "sell": 300,
+        "whereHow": "Pond",
+        "shadow": "X-Small",
+        "totalCatchesToUnlock": 0,
+        "spawnRates": "3–4",
+        "rainSnowCatchUp": false,
+        "nhJan": [
+            "NA"
+        ],
+        "nhFeb": [
+            "NA"
+        ],
+        "nhMar": [
+            "NA"
+        ],
+        "nhApr": [
+            "All day"
+        ],
+        "nhMay": [
+            "All day"
+        ],
+        "nhJun": [
+            "All day"
+        ],
+        "nhJul": [
+            "All day"
+        ],
+        "nhAug": [
+            "All day"
+        ],
+        "nhSep": [
+            "NA"
+        ],
+        "nhOct": [
+            "NA"
+        ],
+        "nhNov": [
+            "NA"
+        ],
+        "nhDec": [
+            "NA"
+        ],
+        "shJan": [
+            "All day"
+        ],
+        "shFeb": [
+            "All day"
+        ],
+        "shMar": [
+            "NA"
+        ],
+        "shApr": [
+            "NA"
+        ],
+        "shMay": [
+            "NA"
+        ],
+        "shJun": [
+            "NA"
+        ],
+        "shJul": [
+            "NA"
+        ],
+        "shAug": [
+            "NA"
+        ],
+        "shSep": [
+            "NA"
+        ],
+        "shOct": [
+            "All day"
+        ],
+        "shNov": [
+            "All day"
+        ],
+        "shDec": [
+            "All day"
+        ],
+        "color1": "Yellow",
+        "color2": "Black",
+        "size": "1x1",
+        "lightingType": "Fluorescent",
+        "iconFilename": "Fish9",
+        "critterpediaFilename": "FishMedaka",
+        "furnitureFilename": "FtrFishMedaka",
+        "internalID": 2222,
+        "uniqueEntryID": "ZR9dsEApEXCjtXu3k"
+    }
+]

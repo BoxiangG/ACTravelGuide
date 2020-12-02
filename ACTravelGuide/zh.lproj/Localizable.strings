@@ -1,0 +1,241 @@
+/*
+ Localizable.strings
+ 
+ 
+ Created by Shaohang Hu on 5/13/20.
+ 
+ */
+
+"Fishes" = "鱼";
+"Bugs" = "虫";
+"Fossils"  = "化石";
+"Museum" = "博物馆";
+"表情" = "表情";
+"Villagers" = "村民";
+"More" = "更多";
+"南北半球" = "南北半球";
+"语言" = "语言";
+"Preferences" = "设置";
+"Others" = "其他";
+"Privacy Statement" = "隐私声明";
+"Terms & Conditions" = "条款与条件";
+"About" = "关于";
+"Arts" = "艺术品";
+"有赝品" = "有赝品";
+"总是真迹" = "总是真迹";
+"真" = "真";
+"假" = "假";
+
+
+//Title
+"Bug Book" = "虫图鉴";
+"Fish Book" = "鱼图鉴";
+
+//
+"Donated" = "已捐赠";
+"Not donated" = "未捐赠";
+
+//Detail Page
+"Location" = "出现地点";
+"Price" = "卖出价";
+"Bells" = "铃钱";
+"Weather" = "出现天气";
+"Rarity" = "稀有度";
+"Time" = "出现时间";
+"All day" = "全天";
+
+//Months
+"1" = "1月";
+"2" = "2月";
+"3" = "3月";
+"4" = "4月";
+"5" = "5月";
+"6" = "6月";
+"7" = "7月";
+"8" = "8月";
+"9" = "9月";
+"10" = "10月";
+"11" = "11月";
+"12" = "12月";
+
+//Weathers
+"Any weather"="任何天气";
+"Any except rain"="除下雨天外";
+"Rain only"="下雨天";
+"rainSnowOnly"="下雨/雪时出现";
+"notRainSnowOnly"="任何天气";
+
+
+//Locations
+"On trees (any kind)" = "任何树上";
+"On beach rocks" = "海边岩石上";
+"Flying" = "空中";
+"On the ground" = "地面上";
+"On flowers" = "花朵上";
+"On hardwood/cedar trees"  = "阔叶树/松树";
+"Flying near water" = "水边空中";
+"Flying near light sources" = "光源附近空中";
+"On white flowers" = "白色花朵上";
+"On rivers/ponds"= "花丛附近空中";
+"Underground (dig where noise is loudest)"= "在地下中发出叫声（挖最响的地方）";
+"Disguised under trees"= "隐藏在树上";
+"On palm trees"= "椰子树上";
+"On tree stumps"= "树桩上";
+"Pushing snowballs"= "雪球附近";
+"Shaking trees (hardwood or cedar only)"= "从阔叶树或松树上摇下";
+"On villagers"= "村民身上";
+"On rotten turnips"= "腐烂的大头菜附近";
+"On rocks/bushes"= "石头/灌木上";
+"Flying near blue/purple/black flowers"= "蓝/紫/黑色花朵附近空中";
+"From hitting rocks" = "敲击石头";
+"Disguised on shoreline"= "伪装成海螺";
+"Flying near trash (boots, tires, cans) or rotten turnips"= "垃圾附近";
+"Shaking trees"= "树上摇下";
+
+"Pond" = "池塘";
+"Sea" = "海里";
+"River" = "河里";
+"River (mouth)" = "河里（靠近入海口）";
+"River (clifftop)" = "河里（悬崖）";
+"Pier" = "码头";
+
+//Shadow
+"XSmall" = "超小";
+"Small" = "小";
+"Medium" = "中";
+"MediumWFin" = "中（有鱼鳍)";
+"Large" = "大";
+"LargeWFin" = "大（有鱼鳍）";
+"XLarge" = "超大";
+"XXLarge" = "超巨大";
+"Long" = "长";
+
+
+//Rarities
+"Common"= "常见";
+"Rare"= "稀有";
+"Uncommon"= "不太常见";
+"UltraRare"= "非常稀有";
+
+//Unknow
+"unkown" = "未知，待更新";
+
+//Peferences
+"North Hemisphere" = "北半球";
+"South Hemisphere" = "南半球";
+"Hemi footer" = "南北半球的选择会改变生物出现的时间";
+
+//Villager Details
+"Species" = "种族";
+"Gender" = "性别";
+"Birthday" = "生日";
+"Personality" = "性格";
+"Phrase" = "口头禅";
+"Male" = "男";
+"Female" = "女";
+
+//Villager-species
+"Dog" = "狗";
+"Chicken" = "鸡";
+"Eagle" = "鹰";
+"Ostrich" = "鸵鸟";
+"Octopus" = "章鱼";
+"Rabbit" = "兔";
+"Horse" ="马";
+"Cat" = "猫";
+"Elephant" = "象";
+"Wolf" = "狼";
+"Koala" = "考拉";
+"Deer" = "鹿";
+"Cub" = "小熊";
+"Cow" = "牛";
+"Pig" = "猪";
+"Frog" = "青蛙";
+"Mouse" = "鼠";
+"Lion" = "狮子";
+"Duck" = "鸭";
+"Penguin" = "企鹅";
+"Sheep" = "绵羊";
+"Bull" = "牛";
+"Kangaroo" = "袋鼠";
+"Monkey" = "猴";
+"Hamster" = "仓鼠";
+"Anteater" = "食蚁兽";
+"Bird" = "鸟";
+"Rhino" = "犀牛";
+"Bear" = "熊";
+"Tiger" = "虎";
+"Hippo" = "犀牛";
+"Squirrel" = "松鼠";
+"Gorilla" = "猩猩";
+"Alligator" = "鳄鱼";
+"Goat" = "山羊";
+
+//Personality
+"Reactions" = "表情";
+"Source" = "来源";
+"Additional Info" = "备注";
+"All" = "所有性格";
+"Cranky" = "暴躁型";
+"Jock" = "运动型";
+"Peppy" = "元气型";
+"Snooty" = "成熟型";
+"Normal" = "普通型";
+"Smug" = "自恋型";
+"Lazy" = "悠闲型";
+"Uchi" = "大姐姐型";
+"Big Sister" = "大姐姐型";
+"None" = "无";
+"Requires a high level of friendship" = "需要与村民有好友关系";
+"reactionSource" = "的村民";
+"Not acquired" = "未获取";
+"Acquired" = "已获取";
+"Favorite" = "喜爱";
+"Resident" = "居民";
+"Not Resident" = "非居民";
+"Cancel" = "取消";
+
+//Search Placeholders
+"Search Reactions" = "搜索表情";
+"Search Villagers" = "搜索村民";
+"Search Fossils" = "搜索化石";
+"Search Arts" = "搜索艺术品";
+"Search Fishes" = "搜索鱼类";
+"Search Bugs" = "搜索虫子";
+
+//MARK: - IAP View Controller
+"supportText" = "如果你喜欢这款App，可以支持一下开发者，谢谢老板";
+"littleTip" = "请开发者喝杯可乐吧🍭";
+"someTip" = "请开发者吃碗兰州拉面吧🍜";
+"largeTip" = "请开发者吃一顿麻辣烫吧🍲";
+
+
+//rug and wall
+"Nook's Cranny" = "Nook 商店";
+"Crafting" = "DIY";
+"Saharah" = "骆岚";
+"Fishing Tourney" = "钓鱼大赛";
+"Birthday" = "生日";
+
+"wedding" = "婚礼系列";
+"bamboo" = "竹子系列";
+"mush" = "蘑菇系列";
+"fruits" = "水果系列";
+"golden" = "金系列";
+"festive" = "节日系列";
+"Notes" = "额外信息";
+"Size" = "尺寸";
+"Bunny Day" = "复活节系列";
+
+"Series" = " 系列";
+"Large rug" = "大号地毯";
+"Medium rug" = "中号地毯";
+"Small rug" = "小号地毯";
+
+"Not for sale" = "非卖品";
+"Rugs & Wallpapers" = "地毯和墙纸";
+"Search Rug or Wallpaper" = "搜索地毯和墙纸";
+
+
+
+

@@ -1,0 +1,22 @@
+/* 
+  localize.strings
+  ACTravelGuide
+
+  Created by Shaohang Hu on 5/13/20.
+  Copyright © 2020 Boxiang Guo. All rights reserved.
+*/
+"Fishes" = "Fishes";
+"Bugs" = "Bugs";
+"More" = "More";
+
+//Title
+"Bug Book" = "Bug Book";
+"Fish Book" = "Fish Book";
+
+//Detail Page
+"Location" = "Location: ";
+"Price" = "Price";
+"Weather" = "Weather";
+"Rarity" = "Rarity";
+"Time interval" = "Time interval";
+

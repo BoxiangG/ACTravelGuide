@@ -1,0 +1,184 @@
+/*
+  Localizable.strings
+  
+
+  Created by Shaohang Hu on 5/13/20.
+  
+*/
+//Tab
+"Fishes" = "Fishes";
+"Bugs" = "Bugs";
+"Fossils"  = "Fossils";
+"Museum" = "Museum";
+"Villagers" = "Villagers";
+"More" = "More";
+"南北半球" = "N./S. Hemisphere";
+"表情" = "Reactions";
+"语言" = "Language";
+"支持开发者" = "Support developer";
+"Preferences" = "Preferences";
+"Others" = "Others";
+"Privacy Statement" = "Privacy Statement";
+"Terms & Conditions" = "Terms & Conditions";
+"About" = "About";
+"Arts" = "Arts";
+"有赝品" = "Counterfeit possible";
+"总是真迹" = "Always Genuine";
+"真" = "Genuine";
+"假" = "Fake";
+
+
+//Title
+"Bug Book" = "Bug Book";
+"Fish Book" = "Fish Book";
+
+//
+"Donated" = "Donated";
+"Not donated" = "Not Donated";
+
+//Detail Page
+"Location" = "Location: ";
+"Price" = "Price: ";
+"Bells" = "bells";
+"Weather" = "Weather: ";
+"Rarity" = "Rarity: ";
+"Time" = "Time: ";
+"All day" = "All day";
+
+//Months
+"1" = "Jan";
+"2" = "Feb";
+"3" = "May";
+"4" = "Apr";
+"5" = "May";
+"6" = "Jun";
+"7" = "Jul";
+"8" = "Aug";
+"9" = "Sep";
+"10" = "Oct";
+"11" = "Nov";
+"12" = "Dec";
+
+//Weathers
+"Any weather"="Any weather";
+"Any except rain"="Any except rain";
+"Rain only"="Rain only";
+"rainSnowOnly"="Rain/Snow only";
+"notRainSnowOnly"="Any weather";
+
+//Locations
+"On trees (any kind)" = "On trees (any kind)";
+"On beach rocks" = "On beach rocks";
+"Flying" = "Flying";
+"On the ground" = "On the ground";
+"On flowers" = "On flowers";
+"On hardwood/cedar trees"  = "On hardwood/cedar trees";
+"Flying near water" = "Flying near water";
+"Flying near light sources" = "Flying near light sources";
+"On white flowers" = "On white flowers";
+"On rivers/ponds"="On rivers/ponds";
+"Underground (dig where noise is loudest)"="Underground (dig where noise is loudest)";
+"Disguised under trees"="Disguised under trees";
+"On palm trees"="On palm trees";
+"On tree stumps"="On tree stumps";
+"Pushing snowballs"="Pushing snowballs";
+"Shaking trees (hardwood or cedar only)"="Shaking trees (hardwood or cedar only)";
+"On villagers"="On villagers";
+"On rotten turnips"="On rotten turnips";
+"On rocks/bushes"="On rocks/bushes";
+"Flying near blue/purple/black flowers"="Flying near blue/purple/black flowers";
+"From hitting rocks" ="From hitting rocks" ;
+"Disguised on shoreline"="Disguised on shoreline";
+"Flying near trash (boots, tires, cans) or rotten turnips"="Flying near trash or rotten turnips";
+"Shaking trees"="Shaking trees";
+
+"Pond" = "Pond";
+"Sea" = "Sea";
+"River" = "River";
+"River (mouth)" = "River (mouth)";
+"River (clifftop)" = "River (clifftop)";
+"Pier" = "Pier";
+
+//Shadow
+"XSmall" = "Extra Small";
+"Small" = "Small";
+"Medium" = "Medium";
+"MediumWFin" = "Medium With Fin";
+"Large"= "Large";
+"LargeWFin" = "Large With Fin";
+"XLarge"="Extra Large";
+"XXLarge"="Extra Extra Large";
+"Long"="Long";
+
+//Rarities
+"Common"="Common";
+"Rare"="Rare";
+"Uncommon"="Uncommon";
+"UltraRare"="UltraRare";
+
+//Unknow
+"unkown" = "Will be updated";
+
+//Peferences
+"North Hemisphere" = "North";
+"South Hemisphere" = "South";
+"Hemi footer" = "Choose where you island locates";
+
+//Villager Details
+"Species" = "Species";
+"Gender" = "Gender";
+"Birthday" = "Birthday";
+"Personality" = "Personality";
+"Phrase" = "Phrase";
+
+//Villager-species
+"Dog" = "Dog";
+"Chicken" = "Chicken";
+"Eagle" = "Eagle";
+"Ostrich" = "Ostrich";
+"Octopus" = "Octopus";
+"Rabbit" = "Rabbit";
+"Horse" ="Horse";
+"Cat" = "Cat";
+"Elephant" = "Elephant";
+"Wolf" = "Wolf";
+"Koala" = "Koala";
+"Deer" = "Deer";
+"Cub" = "Cub";
+"Cow" = "Cow";
+"Pig" = "Pig";
+"Frog" = "Frog";
+"Mouse" = "Mouse";
+"Lion" = "Lion";
+"Duck" = "Duck";
+"Penguin" = "Penguin";
+"Sheep" = "Sheep";
+"Bull" = "Bull";
+"Kangaroo" = "Kangaroo";
+"Monkey" = "Monkey";
+"Hamster" = "Hamster";
+"Anteater" = "Anteater";
+"Bird" = "Bird";
+"Rhino" = "Rhino";
+"Bear" = "Bear";
+"Tiger" = "Tiger";
+"Hippo" = "Hippo";
+"Squirrel" = "Squirrel";
+"Gorilla" = "Gorilla";
+"Alligator" = "Alligator";
+"Kangaroo" = "Kangaroo";
+"Goat" = "Goat";
+
+"reactionSource" = " Villagers";
+"根据...分组" = "Filtered By ...";
+"不分组" = "No Filter";
+"捐赠" = "Donation";
+"本月可捕捉" = "Avaliable This Months";
+"本月不可捕捉" = "Not Avaliable This Months";
+
+//MARK: - IAP View Controller
+"supportText" = "If you enjoy this app and have some money to spare, consider leave some tip to support the develpment of the app, Thank you very much!";
+"littleTip" = "😊Kind Tip";
+"someTip" = "😊Generous Tip";
+"largeTip" = "😊Amazing Tip";
+

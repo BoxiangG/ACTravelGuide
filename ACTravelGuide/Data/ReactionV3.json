@@ -1,0 +1,432 @@
+[
+    {
+        "name": "Dozing",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Sleep.png",
+        "source": [
+            "Smug"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "2vvgAacGjthcFW5Qa"
+    },
+    {
+        "name": "Flourish",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Dance.png",
+        "source": [
+            "Jock"
+        ],
+        "sourceNotes": "Requires a high level of friendship",
+        "internalID": -1,
+        "uniqueEntryID": "5QDD3DcwdPhbGoJAf"
+    },
+    {
+        "name": "Aggravation",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Outraged.png",
+        "source": [
+            "Peppy"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "6suhKYAAhh5QMKt64"
+    },
+    {
+        "name": "Surprise",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Aha.png",
+        "source": [
+            "All"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "7jmkZiSxrYT7MMm4P"
+    },
+    {
+        "name": "Agreement",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Nodding.png",
+        "source": [
+            "Cranky"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "7smqwK9J7eFBxta28"
+    },
+    {
+        "name": "Resignation",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/OhGeez.png",
+        "source": [
+            "Smug"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "7YdF3ZMr95XP3FaoW"
+    },
+    {
+        "name": "Glee",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/HappyDance.png",
+        "source": [
+            "Normal"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "8nAwdhzZfotqpLC9R"
+    },
+    {
+        "name": "Inspiration",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/IdeaBulb.png",
+        "source": [
+            "Cranky"
+        ],
+        "sourceNotes": "Requires a high level of friendship",
+        "internalID": -1,
+        "uniqueEntryID": "8ux4ddfibJQR2EuWW"
+    },
+    {
+        "name": "Sleepy",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Sleepy.png",
+        "source": [
+            "Peppy"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "9e5BhxmqtMurNWqW4"
+    },
+    {
+        "name": "Shyness",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Hesitate.png",
+        "source": [
+            "Lazy"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "9H7jt7AGKbh6mW4y8"
+    },
+    {
+        "name": "Showmanship",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Shaki.png",
+        "source": [
+            "Smug"
+        ],
+        "sourceNotes": "Requires a high level of friendship",
+        "internalID": -1,
+        "uniqueEntryID": "Bj5iG7kc6tLND9bjn"
+    },
+    {
+        "name": "Shocked",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Surprised.png",
+        "source": [
+            "Jock"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "bn29da8SNdMYYyWAa"
+    },
+    {
+        "name": "Disagreement",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Negative.png",
+        "source": [
+            "Big Sister"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "Bw5YBM6iuWgMzutWq"
+    },
+    {
+        "name": "Mistaken",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Oops.png",
+        "source": [
+            "Lazy"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "DPR7WWkmR36Bsf2LG"
+    },
+    {
+        "name": "Mischief",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Scheming.png",
+        "source": [
+            "Peppy"
+        ],
+        "sourceNotes": "Requires a high level of friendship",
+        "internalID": -1,
+        "uniqueEntryID": "E7it7yLfFaddFvEhQ"
+    },
+    {
+        "name": "Laughter",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Laughing.png",
+        "source": [
+            "Big Sister"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "EBenMHMpwnkMgS6eg"
+    },
+    {
+        "name": "Heartbreak",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/BrokenHeart.png",
+        "source": [
+            "Smug"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "ex6gKZu6zsyd6MgDr"
+    },
+    {
+        "name": "Sneezing",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Sneezing.png",
+        "source": [
+            "Jock"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "F6Dkk4PGtjDMCgry3"
+    },
+    {
+        "name": "Delight",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Clapping.png",
+        "source": [
+            "All"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "F9DpGeqZzDeSTh2bq"
+    },
+    {
+        "name": "Encouraging",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Cheering.png",
+        "source": [
+            "Jock"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "fomfML4NWdY8x6adv"
+    },
+    {
+        "name": "Joy",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/HappyFlower.png",
+        "source": [
+            "All"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "fSNyHJHgLKac5mSLT"
+    },
+    {
+        "name": "Love",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Love.png",
+        "source": [
+            "Snooty"
+        ],
+        "sourceNotes": "Requires a high level of friendship",
+        "internalID": -1,
+        "uniqueEntryID": "GvAsErCFuGAcMAeXM"
+    },
+    {
+        "name": "Thought",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Thinking.png",
+        "source": [
+            "Snooty"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "HEFCeCGtJ7Bkb5PXG"
+    },
+    {
+        "name": "Apologetic",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Apologize.png",
+        "source": [
+            "Big Sister"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "jBKsQYCAd7PtymQeB"
+    },
+    {
+        "name": "Daydreaming",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/AbsentMindedness.png",
+        "source": [
+            "Normal"
+        ],
+        "sourceNotes": "Requires a high level of friendship",
+        "internalID": -1,
+        "uniqueEntryID": "JFrTBJCEaX5R4kABT"
+    },
+    {
+        "name": "Cold Chill",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/ColdChill.png",
+        "source": [
+            "Big Sister"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "K62u2owKFDLmPCB3Q"
+    },
+    {
+        "name": "Smirking",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Grin.png",
+        "source": [
+            "Smug"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "KDAWT9zDKpufEWgaW"
+    },
+    {
+        "name": "Fearful",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Shaking.png",
+        "source": [
+            "Normal"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "noKrWYCMSWcH4jwvi"
+    },
+    {
+        "name": "Sighing",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Sighing.png",
+        "source": [
+            "Snooty"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "ntjLqg82EQNsgnzYA"
+    },
+    {
+        "name": "Greetings",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Greeting.png",
+        "source": [
+            "All"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "oE6uqhZYjYfuqb55n"
+    },
+    {
+        "name": "Curiosity",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/QuestionMark.png",
+        "source": [
+            "Peppy"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "SskgipgnKzm5TsK7d"
+    },
+    {
+        "name": "Confident",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Assent.png",
+        "source": [
+            "Big Sister"
+        ],
+        "sourceNotes": "Requires a high level of friendship",
+        "internalID": -1,
+        "uniqueEntryID": "TGifHTbyLBh4f3gDQ"
+    },
+    {
+        "name": "Happiness",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Smiling.png",
+        "source": [
+            "Peppy"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "TWENXBbBENgnFiGq3"
+    },
+    {
+        "name": "Worry",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Worried.png",
+        "source": [
+            "Cranky"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "TygKeKxvotLEzWqvY"
+    },
+    {
+        "name": "Amazed",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Shocked.png",
+        "source": [
+            "Snooty"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "vosig4bbr4kPq57AT"
+    },
+    {
+        "name": "Distress",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Frantic.png",
+        "source": [
+            "Jock"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "vsSjQBZXPeSK6uDTK"
+    },
+    {
+        "name": "Sorrow",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Crying.png",
+        "source": [
+            "Lazy"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "W8nngMS98uwpHHW4m"
+    },
+    {
+        "name": "Sadness",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/SadSpiral.png",
+        "source": [
+            "Normal"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "Wo8q6KhPtL2CYwat4"
+    },
+    {
+        "name": "Bewilderment",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Pardon.png",
+        "source": [
+            "Cranky"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "WRSSRZMtM6rXfXBrR"
+    },
+    {
+        "name": "Bashfulness",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Blushing.png",
+        "source": [
+            "Lazy"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "wzvKbFrEJCseTohoz"
+    },
+    {
+        "name": "Intense",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Silent.png",
+        "source": [
+            "Snooty"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "X2kzqTaPwtG6SGNT8"
+    },
+    {
+        "name": "Pride",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/SmugFace.png",
+        "source": [
+            "Lazy"
+        ],
+        "sourceNotes": "Requires a high level of friendship",
+        "internalID": -1,
+        "uniqueEntryID": "xKoQpdJMtocNFRckm"
+    },
+    {
+        "name": "Pleased",
+        "image": "https://acnhcdn.com/latest/ManpuIcon/Hello.png",
+        "source": [
+            "Normal"
+        ],
+        "sourceNotes": null,
+        "internalID": -1,
+        "uniqueEntryID": "Z3MuKfQMaH3D8vkPA"
+    }
+]

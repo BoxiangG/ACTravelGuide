@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8qG-U6-q6D"; */
+"8qG-U6-q6D.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DzQ-qW-5bi"; */
+"DzQ-qW-5bi.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JLh-ON-c6H"; */
+"JLh-ON-c6H.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Fishes"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Fishes";
+
+/* Class = "UITabBarItem"; title = "Bugs"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Bugs";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hfY-Na-rZj"; */
+"hfY-Na-rZj.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zTr-nu-tT4"; */
+"zTr-nu-tT4.text" = "Label";

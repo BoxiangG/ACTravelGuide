@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  
+
+  Created by Shaohang Hu on 5/13/20.
+  
+*/
+"Fishes" = "鱼";
+"Bugs" = "蟲";
+"More" = "更多";
+
+//Title
+"Bug Book" = "虫图鉴";
+"Fish Book" = "鱼图鉴";
+
+//Detail Page
+"Location" = "出现地点： ";
+"Price" = "卖出价";
+"Weather" = "天气";
+"Rarity" = "稀有度";
+"Time" = "出现时间";
